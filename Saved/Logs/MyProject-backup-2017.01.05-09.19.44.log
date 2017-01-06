@@ -1,0 +1,1549 @@
+﻿Log file open, 01/05/17 01:53:07
+LogInit:Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1729612445) SRandInit(1729612445).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.090895
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3224400
+LogInit: Engine Version: 4.14.1-3224400+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Dec  7 2016 02:14:32
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.05-04.53.08:139][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.05-04.53.08:139][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.05-04.53.08:318][  0]LogInit: Computer: DESKTOP-CNJIFR0
+[2017.01.05-04.53.08:318][  0]LogInit: User: alefr
+[2017.01.05-04.53.08:318][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.01.05-04.53.08:318][  0]LogInit: High frequency timer resolution =3.222674 MHz
+[2017.01.05-04.53.08:319][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.01.05-04.53.08:319][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.05-04.53.08:319][  0]LogMemory: Process Physical Memory: 264.09 MB used, 264.09 MB peak
+[2017.01.05-04.53.08:319][  0]LogMemory: Process Virtual Memory: 262.78 MB used, 262.78 MB peak
+[2017.01.05-04.53.08:319][  0]LogMemory: Physical Memory: 4937.13 MB used,  3197.80 MB free, 8134.93 MB total
+[2017.01.05-04.53.08:319][  0]LogMemory: Virtual Memory: 675.61 MB used,  3197.80 MB free, 134217728.00 MB total
+[2017.01.05-04.53.08:379][  0]LogInit: Overriding culture en with editor configuration.
+[2017.01.05-04.53.16:370][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.05-04.53.16:876][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2017.01.05-04.53.16:876][  0]LogD3D11RHI:       6100/0/4067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.01.05-04.53.16:877][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.01.05-04.53.16:877][  0]LogD3D11RHI:       0/0/4067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.01.05-04.53.16:877][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.05-04.53.16:881][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.05-04.53.16:882][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2017.01.05-04.53.16:882][  0]LogWindows: EnumDisplayDevices:
+[2017.01.05-04.53.16:882][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2017.01.05-04.53.16:882][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.01.05-04.53.16:882][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.01.05-04.53.16:882][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.01.05-04.53.16:882][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.01.05-04.53.16:882][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2017.01.05-04.53.16:882][  0]LogD3D11RHI:   Driver Version: 376.33 (internal:21.21.13.7633, unified:376.33)
+[2017.01.05-04.53.16:882][  0]LogD3D11RHI:      Driver Date: 12-11-2016
+[2017.01.05-04.53.16:882][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.01.05-04.53.17:343][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.05-04.53.17:381][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.01.05-04.53.17:382][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (D:/AlefRGamer/Documents/Unreal Projects/MyProject/Intermediate/Shaders/WorkingDirectory/9564/).
+[2017.01.05-04.53.17:382][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alefr/AppData/Local/Temp/UnrealShaderWorkingDir/45EE63784785FEFE34A76DB4F6190963/'.
+[2017.01.05-04.53.17:382][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.05-04.53.22:390][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.05-04.53.22:459][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.01.05-04.53.22:529][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.01.05-04.53.22:598][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.01.05-04.53.22:687][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.01.05-04.53.22:757][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.05-04.53.22:826][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.05-04.53.22:896][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.05-04.53.22:954][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.05-04.53.23:078][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.05-04.53.23:146][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.05-04.53.23:213][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.05-04.53.23:279][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.05-04.53.23:346][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.05-04.53.23:412][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.05-04.53.23:543][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.05-04.53.23:543][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.05-04.53.23:632][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.05-04.53.23:751][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.05-04.53.23:795][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.05-04.53.23:861][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.05-04.53.23:928][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.05-04.53.23:994][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.05-04.53.24:115][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.05-04.53.24:115][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.05-04.53.24:638][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.05-04.53.24:699][  0]LogDerivedDataCache: Loaded boot cache 0.06s 52MB C:/Users/alefr/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.05-04.53.24:699][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/alefr/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.01.05-04.53.24:699][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/AlefRGamer/Documents/Unreal Projects/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.05-04.53.24:699][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.05-04.53.24:699][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/AlefRGamer/Documents/Unreal Projects/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.05-04.53.24:699][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.05-04.53.24:718][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.05-04.53.24:730][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alefr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.05-04.53.25:058][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.05-04.53.25:060][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.05-04.53.25:372][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.01.05-04.53.25:428][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.01.05-04.53.25:488][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.01.05-04.53.25:488][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.01.05-04.53.25:488][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.05-04.53.26:949][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: myproject, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 2754685603
+[2017.01.05-04.53.27:029][  0]LogAssetRegistry: FAssetRegistry took 0.0221 seconds to start up
+[2017.01.05-04.53.27:083][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.024126 seconds
+[2017.01.05-04.53.27:089][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.01.05-04.53.27:089][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.01.05-04.53.27:089][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.05-04.53.27:175][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.05-04.53.28:214][  0]LogSlate: Using Freetype 2.6.0
+[2017.01.05-04.53.28:248][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.05-04.53.28:248][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.05-04.54.04:761][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.05-04.54.04:836][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.05-04.54.05:740][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.05-04.54.06:388][  0]SourceControl: Info Source control is disabled
+[2017.01.05-04.54.06:588][  0]SourceControl: Info Source control is disabled
+[2017.01.05-04.54.06:659][  0]SourceControl: Info Source control is disabled
+[2017.01.05-04.54.06:734][  0]SourceControl: Info Source control is disabled
+[2017.01.05-04.54.08:863][  0]LogEngine: Initializing Engine...
+[2017.01.05-04.54.08:863][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.01.05-04.54.09:146][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.05-04.54.09:152][  0]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.05-04.54.09:167][  0]LogInit: FAudioDevice initialized.
+[2017.01.05-04.54.09:211][  0]LogDerivedDataCache: Saved boot cache 0.04s 50MB C:/Users/alefr/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.05-04.54.09:228][  0]LogInit: Texture streaming: Enabled
+[2017.01.05-04.54.09:489][  0]LogInit: Transaction tracking system initialized
+[2017.01.05-04.54.09:935][  0]BlueprintLog: New page: Editor Load
+[2017.01.05-04.54.11:432][  0]LocalizationService: Info Localization service is disabled
+[2017.01.05-04.54.13:295][  0]LogConsoleResponse:Display: 
+[2017.01.05-04.54.13:939][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.05-04.54.13:939][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.05-04.54.14:165][  0]LogFileCache: Scanning file cache for directory 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/' took 0.01s
+[2017.01.05-04.54.15:758][  0]SourceControl: Info Source control is disabled
+[2017.01.05-04.54.15:758][  0]Cmd: MAP LOAD FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.05-04.54.15:759][  0]LightingResults: New page: Lighting Build
+[2017.01.05-04.54.15:808][  0]MapCheck: New page: Map Check
+[2017.01.05-04.54.15:808][  0]LightingResults: New page: Lighting Build
+[2017.01.05-04.54.17:982][  0]LogTexture:Display: Building textures: T_ML_Rubber_Blue_01_D (AutoDXT)
+[2017.01.05-04.54.18:508][  0]LogTexture:Display: Building textures: T_ML_Rubber_Blue_01_N (BC5)
+[2017.01.05-04.54.18:567][  0]LogTexture:Display: Building textures: T_ML_Aluminum01 (AutoDXT)
+[2017.01.05-04.54.18:819][  0]LogTexture:Display: Building textures: T_ML_Aluminum01_N (BC5)
+[2017.01.05-04.54.19:283][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.01.05-04.54.19:892][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.05-04.54.19:921][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.05-04.54.19:974][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 52.578ms to complete.
+[2017.01.05-04.54.19:974][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.216
+[2017.01.05-04.54.20:065][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.05-04.54.21:399][  0]LogCollectionManager: Loaded 0 collections in 0.001709 seconds
+[2017.01.05-04.54.21:690][  0]LogFileCache: Scanning file cache for directory 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Collections/' took 0.01s
+[2017.01.05-04.54.21:690][  0]LogFileCache: Scanning file cache for directory 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Developers/alefr/Collections/' took 0.01s
+[2017.01.05-04.54.21:690][  0]LogFileCache: Scanning file cache for directory 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Collections/' took 0.01s
+[2017.01.05-04.54.21:690][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.01.05-04.54.21:712][  0]LogContentBrowser: Native class hierarchy populated in 0.0195 seconds. Added 2191 classes and 430 folders.
+[2017.01.05-04.54.21:857][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.05-04.54.21:865][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.008 s
+[2017.01.05-04.54.21:866][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0006 seconds. Added 13 classes and 0 folders.
+[2017.01.05-04.54.21:945][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.01.05-04.54.22:476][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.01.05-04.54.23:604][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.05-04.54.23:968][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.05-04.54.24:118][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.01.05-04.54.24:118][  0]LogLoad: (Engine Initialization) Total time: 78.60 seconds
+[2017.01.05-04.54.24:118][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.70 seconds
+[2017.01.05-04.54.24:118][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.01.05-04.54.24:118][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.01.05-04.54.24:127][  0]LogOcInput: OculusInput pre-init called
+[2017.01.05-04.54.24:598][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2017.01.05-04.54.25:592][  0]LogRenderer: Reallocating scene render targets to support 1208x636 NumSamples 1 (Frame:2).
+[2017.01.05-04.54.26:498][  3]LogAssetRegistry: Asset discovery search completed in 59.4912 seconds
+[2017.01.05-04.54.26:498][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.01.05-04.54.26:498][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000103 seconds (updated 0 objects)
+[2017.01.05-04.57.05:495][857]Cmd: STAT FPS
+[2017.01.05-05.09.33:209][952]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.01.05-05.16.41:117][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.05-05.16.42:551][374]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.01.05-05.16.42:569][374]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.01.05-05.16.42:613][374]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor)
+[2017.01.05-05.16.42:634][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.05-05.16.47:775][729]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.01.05-05.17.10:853][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2017.01.05-05.18.00:416][755]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/crouching_turn_90_left.fbx)
+[2017.01.05-05.18.00:651][755]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.01.05-05.18.00:651][755]LogFbx: ItemName: Model, ItemCount : 113
+[2017.01.05-05.18.00:651][755]LogFbx: ItemName: NodeAttribute, ItemCount : 113
+[2017.01.05-05.18.00:651][755]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.01.05-05.18.00:651][755]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.01.05-05.18.00:651][755]LogFbx: ItemName: AnimationCurveNode, ItemCount : 60
+[2017.01.05-05.18.00:651][755]LogFbx: ItemName: AnimationCurve, ItemCount : 351
+[2017.01.05-05.18.00:660][755]LogFbx: Loading FBX Scene from ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/crouching_turn_90_left.fbx
+[2017.01.05-05.18.00:700][755]LogFbx: FBX Scene Loaded Succesfully
+[2017.01.05-05.18.21:227][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/crouching_turn_90_right.fbx)
+[2017.01.05-05.18.21:250][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/death_crouching_headshot_front.fbx)
+[2017.01.05-05.18.21:270][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/death_from_back_headshot.fbx)
+[2017.01.05-05.18.21:289][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/death_from_front_headshot.fbx)
+[2017.01.05-05.18.21:300][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/death_from_right.fbx)
+[2017.01.05-05.18.21:314][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/death_from_the_back.fbx)
+[2017.01.05-05.18.21:329][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/death_from_the_front.fbx)
+[2017.01.05-05.18.21:348][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/idle.fbx)
+[2017.01.05-05.18.21:373][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/idle_aiming.fbx)
+[2017.01.05-05.18.21:388][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/idle_crouching.fbx)
+[2017.01.05-05.18.21:404][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/idle_crouching_aiming.fbx)
+[2017.01.05-05.18.21:413][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/jump_down.fbx)
+[2017.01.05-05.18.21:427][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/jump_loop.fbx)
+[2017.01.05-05.18.21:445][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/jump_up.fbx)
+[2017.01.05-05.18.21:459][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/run_backward_inPlace.fbx)
+[2017.01.05-05.18.21:470][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/run_backward_left_inPlace.fbx)
+[2017.01.05-05.18.21:486][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/run_backward_right_inPlace.fbx)
+[2017.01.05-05.18.21:494][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/run_forward_inPlace.fbx)
+[2017.01.05-05.18.21:510][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/run_forward_left_inPlace.fbx)
+[2017.01.05-05.18.21:524][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/run_forward_right_inPlace.fbx)
+[2017.01.05-05.18.21:532][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/run_left_inPlace.fbx)
+[2017.01.05-05.18.21:551][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/run_right_inPlace.fbx)
+[2017.01.05-05.18.21:570][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/sprint_backward_inPlace.fbx)
+[2017.01.05-05.18.21:583][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/sprint_backward_left_inPlace.fbx)
+[2017.01.05-05.18.21:598][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/sprint_backward_right_inPlace.fbx)
+[2017.01.05-05.18.21:615][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/sprint_forward_inPlace.fbx)
+[2017.01.05-05.18.21:629][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/sprint_forward_left_inPlace.fbx)
+[2017.01.05-05.18.21:643][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/sprint_forward_right_inPlace.fbx)
+[2017.01.05-05.18.21:672][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/sprint_left_inPlace.fbx)
+[2017.01.05-05.18.21:690][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/sprint_right_inPlace.fbx)
+[2017.01.05-05.18.21:713][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/turn_90_left.fbx)
+[2017.01.05-05.18.21:735][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/turn_90_right.fbx)
+[2017.01.05-05.18.21:753][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/walk_backward_inPlace.fbx)
+[2017.01.05-05.18.21:771][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/walk_backward_left_inPlace.fbx)
+[2017.01.05-05.18.21:789][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/walk_backward_right_inPlace.fbx)
+[2017.01.05-05.18.21:812][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/walk_crouching_backward_inPlace.fbx)
+[2017.01.05-05.18.21:835][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/walk_crouching_backward_left_inPlace.fbx)
+[2017.01.05-05.18.21:849][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/walk_crouching_backward_right_inPlace.fbx)
+[2017.01.05-05.18.21:864][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/walk_crouching_forward_inPlace.fbx)
+[2017.01.05-05.18.21:880][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/walk_crouching_forward_left_inPlace.fbx)
+[2017.01.05-05.18.21:902][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/walk_crouching_forward_right_inPlace.fbx)
+[2017.01.05-05.18.21:917][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/walk_crouching_left_inPlace.fbx)
+[2017.01.05-05.18.21:932][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/walk_crouching_right_inPlace.fbx)
+[2017.01.05-05.18.21:951][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/walk_forward_inPlace.fbx)
+[2017.01.05-05.18.21:965][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/walk_forward_left_inPlace.fbx)
+[2017.01.05-05.18.21:981][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/walk_forward_right_inPlace.fbx)
+[2017.01.05-05.18.22:004][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/walk_left_inPlace.fbx)
+[2017.01.05-05.18.22:025][755]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Animacion Pack Rifle Armo/walk_right_inPlace.fbx)
+[2017.01.05-05.20.39:308][543]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.01.05-05.20.41:258][544]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2017.01.05-05.20.41:351][545]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2017.01.05-05.20.41:579][546]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2017.01.05-05.36.45:821][ 87]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/alefr/Desktop/Personagen/Exo_Gray.fbx)
+[2017.01.05-05.36.45:968][ 87]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.01.05-05.36.45:968][ 87]LogFbx: ItemName: NodeAttribute, ItemCount : 115
+[2017.01.05-05.36.45:968][ 87]LogFbx: ItemName: Model, ItemCount : 123
+[2017.01.05-05.36.45:968][ 87]LogFbx: ItemName: Material, ItemCount : 5
+[2017.01.05-05.36.45:968][ 87]LogFbx: ItemName: Texture, ItemCount : 6
+[2017.01.05-05.36.45:969][ 87]LogFbx: ItemName: Video, ItemCount : 6
+[2017.01.05-05.36.45:969][ 87]LogFbx: ItemName: MotionBuilder_System, ItemCount : 29
+[2017.01.05-05.36.45:969][ 87]LogFbx: ItemName: MotionBuilder_Generic, ItemCount : 3
+[2017.01.05-05.36.45:969][ 87]LogFbx: ItemName: Geometry, ItemCount : 8
+[2017.01.05-05.36.45:969][ 87]LogFbx: ItemName: Pose, ItemCount : 8
+[2017.01.05-05.36.45:969][ 87]LogFbx: ItemName: Deformer, ItemCount : 304
+[2017.01.05-05.36.45:969][ 87]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.01.05-05.36.45:969][ 87]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.01.05-05.36.45:969][ 87]LogFbx: ItemName: AnimationCurveNode, ItemCount : 115
+[2017.01.05-05.36.45:969][ 87]LogFbx: ItemName: AnimationCurve, ItemCount : 516
+[2017.01.05-05.36.45:974][ 87]LogFbx: Loading FBX Scene from ../../../../../../Users/alefr/Desktop/Personagen/Exo_Gray.fbx
+[2017.01.05-05.36.46:308][ 87]LogFbx: FBX Scene Loaded Succesfully
+[2017.01.05-05.41.09:358][ 87]LogFbx: Loading FBX Scene from ../../../../../../Users/alefr/Desktop/Personagen/Exo_Gray.fbx
+[2017.01.05-05.41.09:544][ 87]LogFbx: FBX Scene Loaded Succesfully
+[2017.01.05-05.41.09:587][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:587][ 87]LogFbx: Dumping Node START [EXO_Eyes] 
+[2017.01.05-05.41.09:587][ 87]LogFbx: 	Total Deformer Count 1274360936.
+[2017.01.05-05.41.09:587][ 87]LogFbx: 		[Node 1]  (Type Skin).
+[2017.01.05-05.41.09:596][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:596][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:597][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Eyes (Type Mesh).
+[2017.01.05-05.41.09:597][ 87]LogFbx: Dumping Node END [EXO_Eyes]
+[2017.01.05-05.41.09:597][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:597][ 87]LogFbx: Dumping Node START [EXO_EyesSpec] 
+[2017.01.05-05.41.09:597][ 87]LogFbx: 	Total Deformer Count 833853200.
+[2017.01.05-05.41.09:597][ 87]LogFbx: 		[Node 1] 1 (Type Skin).
+[2017.01.05-05.41.09:597][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:597][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:597][ 87]LogFbx: 		[Node Attribute Child 1] EXO_EyesSpec (Type Mesh).
+[2017.01.05-05.41.09:597][ 87]LogFbx: Dumping Node END [EXO_EyesSpec]
+[2017.01.05-05.41.09:597][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:597][ 87]LogFbx: Dumping Node START [EXO_Caruncula] 
+[2017.01.05-05.41.09:597][ 87]LogFbx: 	Total Deformer Count 833853200.
+[2017.01.05-05.41.09:597][ 87]LogFbx: 		[Node 1] 2 (Type Skin).
+[2017.01.05-05.41.09:597][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:597][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:597][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Caruncula (Type Mesh).
+[2017.01.05-05.41.09:597][ 87]LogFbx: Dumping Node END [EXO_Caruncula]
+[2017.01.05-05.41.09:598][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:598][ 87]LogFbx: Dumping Node START [EXO_HeadMask] 
+[2017.01.05-05.41.09:598][ 87]LogFbx: 	Total Deformer Count 833853200.
+[2017.01.05-05.41.09:598][ 87]LogFbx: 		[Node 1] 3 (Type Skin).
+[2017.01.05-05.41.09:598][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:598][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:598][ 87]LogFbx: 		[Node Attribute Child 1] EXO_HeadMask (Type Mesh).
+[2017.01.05-05.41.09:598][ 87]LogFbx: Dumping Node END [EXO_HeadMask]
+[2017.01.05-05.41.09:598][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:598][ 87]LogFbx: Dumping Node START [Exo_Suit] 
+[2017.01.05-05.41.09:598][ 87]LogFbx: 	Total Deformer Count 1274360936.
+[2017.01.05-05.41.09:598][ 87]LogFbx: 		[Node 1] 4 (Type Skin).
+[2017.01.05-05.41.09:598][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:599][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:599][ 87]LogFbx: 		[Node Attribute Child 1] Exo_Suit (Type Mesh).
+[2017.01.05-05.41.09:599][ 87]LogFbx: Dumping Node END [Exo_Suit]
+[2017.01.05-05.41.09:599][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:599][ 87]LogFbx: Dumping Node START [EXO_Body] 
+[2017.01.05-05.41.09:599][ 87]LogFbx: 	Total Deformer Count 1274360936.
+[2017.01.05-05.41.09:599][ 87]LogFbx: 		[Node 1] 5 (Type Skin).
+[2017.01.05-05.41.09:599][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:599][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:599][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Body (Type Mesh).
+[2017.01.05-05.41.09:599][ 87]LogFbx: Dumping Node END [EXO_Body]
+[2017.01.05-05.41.09:599][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:599][ 87]LogFbx: Dumping Node START [EXO_BrowsLashes] 
+[2017.01.05-05.41.09:599][ 87]LogFbx: 	Total Deformer Count 833852880.
+[2017.01.05-05.41.09:599][ 87]LogFbx: 		[Node 1] 6 (Type Skin).
+[2017.01.05-05.41.09:599][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:599][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:600][ 87]LogFbx: 		[Node Attribute Child 1] EXO_BrowsLashes (Type Mesh).
+[2017.01.05-05.41.09:600][ 87]LogFbx: Dumping Node END [EXO_BrowsLashes]
+[2017.01.05-05.41.09:600][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:600][ 87]LogFbx: Dumping Node START [EXO_Teeth] 
+[2017.01.05-05.41.09:600][ 87]LogFbx: 	Total Deformer Count -1201743680.
+[2017.01.05-05.41.09:600][ 87]LogFbx: 		[Node 1] 7 (Type Skin).
+[2017.01.05-05.41.09:600][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:600][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:600][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Teeth (Type Mesh).
+[2017.01.05-05.41.09:600][ 87]LogFbx: Dumping Node END [EXO_Teeth]
+[2017.01.05-05.41.09:600][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:600][ 87]LogFbx: Dumping Node START [EXO_Eyes] 
+[2017.01.05-05.41.09:601][ 87]LogFbx: 	Total Deformer Count 1274359368.
+[2017.01.05-05.41.09:601][ 87]LogFbx: 		[Node 1]  (Type Skin).
+[2017.01.05-05.41.09:601][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:601][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:601][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Eyes (Type Mesh).
+[2017.01.05-05.41.09:601][ 87]LogFbx: Dumping Node END [EXO_Eyes]
+[2017.01.05-05.41.09:601][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:601][ 87]LogFbx: Dumping Node START [EXO_EyesSpec] 
+[2017.01.05-05.41.09:601][ 87]LogFbx: 	Total Deformer Count 833861600.
+[2017.01.05-05.41.09:601][ 87]LogFbx: 		[Node 1] 1 (Type Skin).
+[2017.01.05-05.41.09:601][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:601][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:601][ 87]LogFbx: 		[Node Attribute Child 1] EXO_EyesSpec (Type Mesh).
+[2017.01.05-05.41.09:601][ 87]LogFbx: Dumping Node END [EXO_EyesSpec]
+[2017.01.05-05.41.09:601][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:601][ 87]LogFbx: Dumping Node START [EXO_Caruncula] 
+[2017.01.05-05.41.09:601][ 87]LogFbx: 	Total Deformer Count 833861600.
+[2017.01.05-05.41.09:601][ 87]LogFbx: 		[Node 1] 2 (Type Skin).
+[2017.01.05-05.41.09:602][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:602][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:602][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Caruncula (Type Mesh).
+[2017.01.05-05.41.09:602][ 87]LogFbx: Dumping Node END [EXO_Caruncula]
+[2017.01.05-05.41.09:602][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:602][ 87]LogFbx: Dumping Node START [EXO_HeadMask] 
+[2017.01.05-05.41.09:602][ 87]LogFbx: 	Total Deformer Count 833861600.
+[2017.01.05-05.41.09:602][ 87]LogFbx: 		[Node 1] 3 (Type Skin).
+[2017.01.05-05.41.09:602][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:602][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:602][ 87]LogFbx: 		[Node Attribute Child 1] EXO_HeadMask (Type Mesh).
+[2017.01.05-05.41.09:602][ 87]LogFbx: Dumping Node END [EXO_HeadMask]
+[2017.01.05-05.41.09:602][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:602][ 87]LogFbx: Dumping Node START [Exo_Suit] 
+[2017.01.05-05.41.09:602][ 87]LogFbx: 	Total Deformer Count 1274359368.
+[2017.01.05-05.41.09:602][ 87]LogFbx: 		[Node 1] 4 (Type Skin).
+[2017.01.05-05.41.09:602][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:603][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:603][ 87]LogFbx: 		[Node Attribute Child 1] Exo_Suit (Type Mesh).
+[2017.01.05-05.41.09:603][ 87]LogFbx: Dumping Node END [Exo_Suit]
+[2017.01.05-05.41.09:603][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:603][ 87]LogFbx: Dumping Node START [EXO_Body] 
+[2017.01.05-05.41.09:603][ 87]LogFbx: 	Total Deformer Count 1274359368.
+[2017.01.05-05.41.09:603][ 87]LogFbx: 		[Node 1] 5 (Type Skin).
+[2017.01.05-05.41.09:603][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:603][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:603][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Body (Type Mesh).
+[2017.01.05-05.41.09:603][ 87]LogFbx: Dumping Node END [EXO_Body]
+[2017.01.05-05.41.09:603][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:603][ 87]LogFbx: Dumping Node START [EXO_BrowsLashes] 
+[2017.01.05-05.41.09:603][ 87]LogFbx: 	Total Deformer Count 833850160.
+[2017.01.05-05.41.09:603][ 87]LogFbx: 		[Node 1] 6 (Type Skin).
+[2017.01.05-05.41.09:603][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:604][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:604][ 87]LogFbx: 		[Node Attribute Child 1] EXO_BrowsLashes (Type Mesh).
+[2017.01.05-05.41.09:604][ 87]LogFbx: Dumping Node END [EXO_BrowsLashes]
+[2017.01.05-05.41.09:604][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:604][ 87]LogFbx: Dumping Node START [EXO_Teeth] 
+[2017.01.05-05.41.09:604][ 87]LogFbx: 	Total Deformer Count -1201740800.
+[2017.01.05-05.41.09:604][ 87]LogFbx: 		[Node 1] 7 (Type Skin).
+[2017.01.05-05.41.09:604][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:604][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:604][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Teeth (Type Mesh).
+[2017.01.05-05.41.09:604][ 87]LogFbx: Dumping Node END [EXO_Teeth]
+[2017.01.05-05.41.09:604][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:604][ 87]LogFbx: Dumping Node START [EXO_Eyes] 
+[2017.01.05-05.41.09:605][ 87]LogFbx: 	Total Deformer Count 1274359368.
+[2017.01.05-05.41.09:605][ 87]LogFbx: 		[Node 1]  (Type Skin).
+[2017.01.05-05.41.09:605][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:605][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:605][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Eyes (Type Mesh).
+[2017.01.05-05.41.09:605][ 87]LogFbx: Dumping Node END [EXO_Eyes]
+[2017.01.05-05.41.09:605][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:605][ 87]LogFbx: Dumping Node START [EXO_EyesSpec] 
+[2017.01.05-05.41.09:605][ 87]LogFbx: 	Total Deformer Count 833853440.
+[2017.01.05-05.41.09:605][ 87]LogFbx: 		[Node 1] 1 (Type Skin).
+[2017.01.05-05.41.09:605][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:605][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:605][ 87]LogFbx: 		[Node Attribute Child 1] EXO_EyesSpec (Type Mesh).
+[2017.01.05-05.41.09:605][ 87]LogFbx: Dumping Node END [EXO_EyesSpec]
+[2017.01.05-05.41.09:605][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:605][ 87]LogFbx: Dumping Node START [EXO_Caruncula] 
+[2017.01.05-05.41.09:605][ 87]LogFbx: 	Total Deformer Count 833853440.
+[2017.01.05-05.41.09:606][ 87]LogFbx: 		[Node 1] 2 (Type Skin).
+[2017.01.05-05.41.09:606][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:606][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:606][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Caruncula (Type Mesh).
+[2017.01.05-05.41.09:606][ 87]LogFbx: Dumping Node END [EXO_Caruncula]
+[2017.01.05-05.41.09:606][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:606][ 87]LogFbx: Dumping Node START [EXO_HeadMask] 
+[2017.01.05-05.41.09:606][ 87]LogFbx: 	Total Deformer Count 1281691936.
+[2017.01.05-05.41.09:606][ 87]LogFbx: 		[Node 1] 3 (Type Skin).
+[2017.01.05-05.41.09:606][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:606][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:606][ 87]LogFbx: 		[Node Attribute Child 1] EXO_HeadMask (Type Mesh).
+[2017.01.05-05.41.09:606][ 87]LogFbx: Dumping Node END [EXO_HeadMask]
+[2017.01.05-05.41.09:606][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:606][ 87]LogFbx: Dumping Node START [Exo_Suit] 
+[2017.01.05-05.41.09:606][ 87]LogFbx: 	Total Deformer Count 1274359368.
+[2017.01.05-05.41.09:606][ 87]LogFbx: 		[Node 1] 4 (Type Skin).
+[2017.01.05-05.41.09:607][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:607][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:607][ 87]LogFbx: 		[Node Attribute Child 1] Exo_Suit (Type Mesh).
+[2017.01.05-05.41.09:607][ 87]LogFbx: Dumping Node END [Exo_Suit]
+[2017.01.05-05.41.09:607][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:607][ 87]LogFbx: Dumping Node START [EXO_Body] 
+[2017.01.05-05.41.09:607][ 87]LogFbx: 	Total Deformer Count 1274359368.
+[2017.01.05-05.41.09:607][ 87]LogFbx: 		[Node 1] 5 (Type Skin).
+[2017.01.05-05.41.09:607][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:607][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:607][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Body (Type Mesh).
+[2017.01.05-05.41.09:607][ 87]LogFbx: Dumping Node END [EXO_Body]
+[2017.01.05-05.41.09:607][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:607][ 87]LogFbx: Dumping Node START [EXO_BrowsLashes] 
+[2017.01.05-05.41.09:607][ 87]LogFbx: 	Total Deformer Count 1281703136.
+[2017.01.05-05.41.09:607][ 87]LogFbx: 		[Node 1] 6 (Type Skin).
+[2017.01.05-05.41.09:607][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:608][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:608][ 87]LogFbx: 		[Node Attribute Child 1] EXO_BrowsLashes (Type Mesh).
+[2017.01.05-05.41.09:608][ 87]LogFbx: Dumping Node END [EXO_BrowsLashes]
+[2017.01.05-05.41.09:608][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:608][ 87]LogFbx: Dumping Node START [EXO_Teeth] 
+[2017.01.05-05.41.09:608][ 87]LogFbx: 	Total Deformer Count -1201743680.
+[2017.01.05-05.41.09:608][ 87]LogFbx: 		[Node 1] 7 (Type Skin).
+[2017.01.05-05.41.09:608][ 87]LogFbx: =================================================
+[2017.01.05-05.41.09:608][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.41.09:608][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Teeth (Type Mesh).
+[2017.01.05-05.41.09:608][ 87]LogFbx: Dumping Node END [EXO_Teeth]
+[2017.01.05-05.41.09:626][ 87]LogFbx: Valid bind pose for Pose (skinCluster1) - EXO_Eyes
+[2017.01.05-05.41.09:627][ 87]LogFbx: Valid bind pose for Pose (skinCluster2) - EXO_Eyes
+[2017.01.05-05.41.09:627][ 87]LogFbx: Valid bind pose for Pose (skinCluster3) - EXO_Eyes
+[2017.01.05-05.41.09:628][ 87]LogFbx:Warning: Not valid bind pose for Pose (skinCluster4) - Node EXO_Eyes : The relative matrices do not match
+[2017.01.05-05.41.09:629][ 87]LogFbx:Warning: Not valid bind pose for Pose (skinCluster4) - Node EXO_EyesSpec : The relative matrices do not match
+[2017.01.05-05.41.09:630][ 87]LogFbx:Warning: Not valid bind pose for Pose (skinCluster4) - Node EXO_Caruncula : The relative matrices do not match
+[2017.01.05-05.41.09:631][ 87]LogFbx:Warning: Not valid bind pose for Pose (skinCluster4) - Node EXO_HeadMask : The relative matrices do not match
+[2017.01.05-05.41.09:631][ 87]LogFbx:Warning: Not valid bind pose for Pose (skinCluster4) - Node Exo_Suit : The relative matrices do not match
+[2017.01.05-05.41.09:632][ 87]LogFbx:Warning: Not valid bind pose for Pose (skinCluster4) - Node EXO_Body : The relative matrices do not match
+[2017.01.05-05.41.09:633][ 87]LogFbx:Warning: Not valid bind pose for Pose (skinCluster4) - Node EXO_BrowsLashes : The relative matrices do not match
+[2017.01.05-05.41.09:634][ 87]LogFbx:Warning: Not valid bind pose for Pose (skinCluster4) - Node EXO_Teeth : The relative matrices do not match
+[2017.01.05-05.41.09:635][ 87]LogFbx: Valid bind pose for Pose (skinCluster5) - EXO_Eyes
+[2017.01.05-05.41.09:636][ 87]LogFbx: Valid bind pose for Pose (skinCluster6) - EXO_Eyes
+[2017.01.05-05.41.09:637][ 87]LogFbx: Valid bind pose for Pose (skinCluster7) - EXO_Eyes
+[2017.01.05-05.41.09:637][ 87]LogFbx: Valid bind pose for Pose (skinCluster8) - EXO_Eyes
+[2017.01.05-05.41.09:664][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/Eye_MAT'
+[2017.01.05-05.41.09:664][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/Eye_MAT'
+[2017.01.05-05.41.09:682][ 87]LogMaterial:Warning: Material /Game/Char_Binary/Char/Eye_MAT.Eye_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2017.01.05-05.41.09:686][ 87]LogMaterial: Missing cached shader map for material Eye_MAT, compiling. 
+[2017.01.05-05.41.09:810][ 87]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.05-05.41.09:835][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/BODY_diffuse'
+[2017.01.05-05.41.09:836][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/BODY_diffuse'
+[2017.01.05-05.41.10:336][ 87]LogTexture:Display: Building textures: BODY_diffuse (AutoDXT)
+[2017.01.05-05.41.17:010][ 87]LogMaterial: Missing cached shader map for material Eye_MAT, compiling. 
+[2017.01.05-05.41.17:055][ 87]LogFbx: Triangulating skeletal mesh EXO_Eyes
+[2017.01.05-05.41.17:422][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/Eye_Spec_MAT'
+[2017.01.05-05.41.17:423][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/Eye_Spec_MAT'
+[2017.01.05-05.41.17:423][ 87]LogMaterial:Warning: Material /Game/Char_Binary/Char/Eye_Spec_MAT.Eye_Spec_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2017.01.05-05.41.17:444][ 87]LogMaterial: Missing cached shader map for material Eye_Spec_MAT, compiling. 
+[2017.01.05-05.41.17:482][ 87]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.05-05.41.17:930][ 87]LogTexture:Display: Building textures: BODY_diffuse (AutoDXT)
+[2017.01.05-05.41.25:021][ 87]LogTexture:Display: Building textures: BODY_diffuse (AutoDXT)
+[2017.01.05-05.41.31:582][ 87]LogMaterial: Missing cached shader map for material Eye_Spec_MAT, compiling. 
+[2017.01.05-05.41.31:663][ 87]LogFbx: Triangulating skeletal mesh EXO_EyesSpec
+[2017.01.05-05.41.31:815][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/Body_MAT'
+[2017.01.05-05.41.31:816][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/Body_MAT'
+[2017.01.05-05.41.31:816][ 87]LogMaterial:Warning: Material /Game/Char_Binary/Char/Body_MAT.Body_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2017.01.05-05.41.31:818][ 87]LogMaterial: Missing cached shader map for material Body_MAT, compiling. 
+[2017.01.05-05.41.31:856][ 87]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.05-05.41.32:797][ 87]LogTexture:Display: Building textures: BODY_diffuse (AutoDXT)
+[2017.01.05-05.41.39:256][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/BODY_specular'
+[2017.01.05-05.41.39:256][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/BODY_specular'
+[2017.01.05-05.41.45:094][ 87]LogTexture:Display: Building textures: BODY_specular (AutoDXT)
+[2017.01.05-05.41.49:619][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/BODY_normal'
+[2017.01.05-05.41.49:620][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/BODY_normal'
+[2017.01.05-05.41.50:821][ 87]LogTexture:Display: Building textures: BODY_normal (BC5)
+[2017.01.05-05.41.51:586][ 87]LogMaterial: Missing cached shader map for material Body_MAT, compiling. 
+[2017.01.05-05.41.51:632][ 87]LogFbx: Triangulating skeletal mesh EXO_Caruncula
+[2017.01.05-05.41.51:639][ 87]LogFbx: Triangulating skeletal mesh EXO_HeadMask
+[2017.01.05-05.41.51:828][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/Exo_MAT'
+[2017.01.05-05.41.51:829][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/Exo_MAT'
+[2017.01.05-05.41.51:829][ 87]LogMaterial:Warning: Material /Game/Char_Binary/Char/Exo_MAT.Exo_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2017.01.05-05.41.51:837][ 87]LogMaterial: Missing cached shader map for material Exo_MAT, compiling. 
+[2017.01.05-05.41.51:878][ 87]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.05-05.41.51:878][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/EXO_diffuse'
+[2017.01.05-05.41.51:878][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/EXO_diffuse'
+[2017.01.05-05.41.52:251][ 87]LogTexture:Display: Building textures: EXO_diffuse (AutoDXT)
+[2017.01.05-05.41.56:221][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/EXO_specular'
+[2017.01.05-05.41.56:221][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/EXO_specular'
+[2017.01.05-05.41.57:231][ 87]LogTexture:Display: Building textures: EXO_specular (AutoDXT)
+[2017.01.05-05.41.58:062][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/EXO_normal'
+[2017.01.05-05.41.58:062][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/EXO_normal'
+[2017.01.05-05.41.58:471][ 87]LogTexture:Display: Building textures: EXO_normal (BC5)
+[2017.01.05-05.41.59:351][ 87]LogMaterial: Missing cached shader map for material Exo_MAT, compiling. 
+[2017.01.05-05.41.59:391][ 87]LogFbx: Triangulating skeletal mesh Exo_Suit
+[2017.01.05-05.42.02:232][ 87]LogFbx: Triangulating skeletal mesh EXO_Body
+[2017.01.05-05.42.04:055][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/Brows_MAT'
+[2017.01.05-05.42.04:055][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/Brows_MAT'
+[2017.01.05-05.42.04:056][ 87]LogMaterial:Warning: Material /Game/Char_Binary/Char/Brows_MAT.Brows_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2017.01.05-05.42.04:058][ 87]LogMaterial: Missing cached shader map for material Brows_MAT, compiling. 
+[2017.01.05-05.42.04:097][ 87]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.05-05.42.04:549][ 87]LogTexture:Display: Building textures: BODY_diffuse (AutoDXT)
+[2017.01.05-05.42.11:599][ 87]LogTexture:Display: Building textures: BODY_specular (AutoDXT)
+[2017.01.05-05.42.16:301][ 87]LogFbxMaterialImport:Warning: Manual texture reimport and recompression may be needed for BODY_normal
+[2017.01.05-05.42.16:712][ 87]LogTexture:Display: Building textures: BODY_normal (BC5)
+[2017.01.05-05.42.18:008][ 87]LogTexture:Display: Building textures: BODY_diffuse (AutoDXT)
+[2017.01.05-05.42.24:382][ 87]LogMaterial: Missing cached shader map for material Brows_MAT, compiling. 
+[2017.01.05-05.42.24:438][ 87]LogFbx: Triangulating skeletal mesh EXO_BrowsLashes
+[2017.01.05-05.42.24:443][ 87]LogFbx: Triangulating skeletal mesh EXO_Teeth
+[2017.01.05-05.42.24:974][ 87]LogFbx:Warning: Bones digested - 113  Depth of hierarchy - 12
+[2017.01.05-05.42.25:770][ 87]LogSkeletalMesh: Section 0: 804 vertices, 2 active bones
+[2017.01.05-05.42.25:771][ 87]LogSkeletalMesh: Section 1: 544 vertices, 2 active bones
+[2017.01.05-05.42.25:772][ 87]LogSkeletalMesh: Section 2: 8393 vertices, 98 active bones
+[2017.01.05-05.42.25:773][ 87]LogSkeletalMesh: Section 3: 9618 vertices, 33 active bones
+[2017.01.05-05.42.25:773][ 87]LogSkeletalMesh: Section 4: 28 vertices, 5 active bones
+[2017.01.05-05.42.25:835][ 87]LogSkeletalMesh: Section 0: Material=0, 1520 triangles
+[2017.01.05-05.42.25:836][ 87]LogSkeletalMesh: Section 1: Material=1, 920 triangles
+[2017.01.05-05.42.25:836][ 87]LogSkeletalMesh: Section 2: Material=2, 13784 triangles
+[2017.01.05-05.42.25:836][ 87]LogSkeletalMesh: Section 3: Material=3, 15444 triangles
+[2017.01.05-05.42.25:836][ 87]LogSkeletalMesh: Section 4: Material=4, 24 triangles
+[2017.01.05-05.42.25:861][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/Exo_Gray_PhysicsAsset'
+[2017.01.05-05.42.25:862][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/Exo_Gray_PhysicsAsset'
+[2017.01.05-05.42.25:882][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/Exo_Gray_Skeleton'
+[2017.01.05-05.42.25:882][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/Exo_Gray_Skeleton'
+[2017.01.05-05.42.25:887][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:887][ 87]LogFbx: Dumping Node START [EXO_Eyes] 
+[2017.01.05-05.42.25:887][ 87]LogFbx: 	Total Deformer Count -886591928.
+[2017.01.05-05.42.25:887][ 87]LogFbx: 		[Node 1]  (Type Skin).
+[2017.01.05-05.42.25:887][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:887][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:887][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Eyes (Type Mesh).
+[2017.01.05-05.42.25:887][ 87]LogFbx: Dumping Node END [EXO_Eyes]
+[2017.01.05-05.42.25:888][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:888][ 87]LogFbx: Dumping Node START [EXO_EyesSpec] 
+[2017.01.05-05.42.25:888][ 87]LogFbx: 	Total Deformer Count -896961664.
+[2017.01.05-05.42.25:888][ 87]LogFbx: 		[Node 1] 1 (Type Skin).
+[2017.01.05-05.42.25:888][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:888][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:888][ 87]LogFbx: 		[Node Attribute Child 1] EXO_EyesSpec (Type Mesh).
+[2017.01.05-05.42.25:888][ 87]LogFbx: Dumping Node END [EXO_EyesSpec]
+[2017.01.05-05.42.25:888][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:888][ 87]LogFbx: Dumping Node START [EXO_Caruncula] 
+[2017.01.05-05.42.25:888][ 87]LogFbx: 	Total Deformer Count -896961664.
+[2017.01.05-05.42.25:888][ 87]LogFbx: 		[Node 1] 2 (Type Skin).
+[2017.01.05-05.42.25:888][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:888][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:888][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Caruncula (Type Mesh).
+[2017.01.05-05.42.25:888][ 87]LogFbx: Dumping Node END [EXO_Caruncula]
+[2017.01.05-05.42.25:888][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:888][ 87]LogFbx: Dumping Node START [EXO_HeadMask] 
+[2017.01.05-05.42.25:889][ 87]LogFbx: 	Total Deformer Count -896961664.
+[2017.01.05-05.42.25:889][ 87]LogFbx: 		[Node 1] 3 (Type Skin).
+[2017.01.05-05.42.25:889][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:889][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:889][ 87]LogFbx: 		[Node Attribute Child 1] EXO_HeadMask (Type Mesh).
+[2017.01.05-05.42.25:889][ 87]LogFbx: Dumping Node END [EXO_HeadMask]
+[2017.01.05-05.42.25:889][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:889][ 87]LogFbx: Dumping Node START [Exo_Suit] 
+[2017.01.05-05.42.25:889][ 87]LogFbx: 	Total Deformer Count -886591928.
+[2017.01.05-05.42.25:889][ 87]LogFbx: 		[Node 1] 4 (Type Skin).
+[2017.01.05-05.42.25:889][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:889][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:889][ 87]LogFbx: 		[Node Attribute Child 1] Exo_Suit (Type Mesh).
+[2017.01.05-05.42.25:889][ 87]LogFbx: Dumping Node END [Exo_Suit]
+[2017.01.05-05.42.25:889][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:889][ 87]LogFbx: Dumping Node START [EXO_Body] 
+[2017.01.05-05.42.25:889][ 87]LogFbx: 	Total Deformer Count -886591928.
+[2017.01.05-05.42.25:890][ 87]LogFbx: 		[Node 1] 5 (Type Skin).
+[2017.01.05-05.42.25:890][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:890][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:890][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Body (Type Mesh).
+[2017.01.05-05.42.25:890][ 87]LogFbx: Dumping Node END [EXO_Body]
+[2017.01.05-05.42.25:890][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:890][ 87]LogFbx: Dumping Node START [EXO_BrowsLashes] 
+[2017.01.05-05.42.25:890][ 87]LogFbx: 	Total Deformer Count -896964224.
+[2017.01.05-05.42.25:890][ 87]LogFbx: 		[Node 1] 6 (Type Skin).
+[2017.01.05-05.42.25:890][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:890][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:890][ 87]LogFbx: 		[Node Attribute Child 1] EXO_BrowsLashes (Type Mesh).
+[2017.01.05-05.42.25:890][ 87]LogFbx: Dumping Node END [EXO_BrowsLashes]
+[2017.01.05-05.42.25:890][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:890][ 87]LogFbx: Dumping Node START [EXO_Teeth] 
+[2017.01.05-05.42.25:890][ 87]LogFbx: 	Total Deformer Count -898287424.
+[2017.01.05-05.42.25:890][ 87]LogFbx: 		[Node 1] 7 (Type Skin).
+[2017.01.05-05.42.25:890][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:891][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:891][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Teeth (Type Mesh).
+[2017.01.05-05.42.25:891][ 87]LogFbx: Dumping Node END [EXO_Teeth]
+[2017.01.05-05.42.25:891][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:891][ 87]LogFbx: Dumping Node START [EXO_Eyes] 
+[2017.01.05-05.42.25:891][ 87]LogFbx: 	Total Deformer Count -886591984.
+[2017.01.05-05.42.25:891][ 87]LogFbx: 		[Node 1]  (Type Skin).
+[2017.01.05-05.42.25:891][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:891][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:891][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Eyes (Type Mesh).
+[2017.01.05-05.42.25:891][ 87]LogFbx: Dumping Node END [EXO_Eyes]
+[2017.01.05-05.42.25:892][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:892][ 87]LogFbx: Dumping Node START [EXO_EyesSpec] 
+[2017.01.05-05.42.25:892][ 87]LogFbx: 	Total Deformer Count -896965824.
+[2017.01.05-05.42.25:892][ 87]LogFbx: 		[Node 1] 1 (Type Skin).
+[2017.01.05-05.42.25:892][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:892][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:892][ 87]LogFbx: 		[Node Attribute Child 1] EXO_EyesSpec (Type Mesh).
+[2017.01.05-05.42.25:892][ 87]LogFbx: Dumping Node END [EXO_EyesSpec]
+[2017.01.05-05.42.25:892][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:892][ 87]LogFbx: Dumping Node START [EXO_Caruncula] 
+[2017.01.05-05.42.25:892][ 87]LogFbx: 	Total Deformer Count -896965824.
+[2017.01.05-05.42.25:892][ 87]LogFbx: 		[Node 1] 2 (Type Skin).
+[2017.01.05-05.42.25:892][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:892][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:892][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Caruncula (Type Mesh).
+[2017.01.05-05.42.25:892][ 87]LogFbx: Dumping Node END [EXO_Caruncula]
+[2017.01.05-05.42.25:892][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:893][ 87]LogFbx: Dumping Node START [EXO_HeadMask] 
+[2017.01.05-05.42.25:893][ 87]LogFbx: 	Total Deformer Count -896965824.
+[2017.01.05-05.42.25:893][ 87]LogFbx: 		[Node 1] 3 (Type Skin).
+[2017.01.05-05.42.25:893][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:893][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:893][ 87]LogFbx: 		[Node Attribute Child 1] EXO_HeadMask (Type Mesh).
+[2017.01.05-05.42.25:893][ 87]LogFbx: Dumping Node END [EXO_HeadMask]
+[2017.01.05-05.42.25:893][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:893][ 87]LogFbx: Dumping Node START [Exo_Suit] 
+[2017.01.05-05.42.25:893][ 87]LogFbx: 	Total Deformer Count -886591984.
+[2017.01.05-05.42.25:893][ 87]LogFbx: 		[Node 1] 4 (Type Skin).
+[2017.01.05-05.42.25:893][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:893][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:893][ 87]LogFbx: 		[Node Attribute Child 1] Exo_Suit (Type Mesh).
+[2017.01.05-05.42.25:893][ 87]LogFbx: Dumping Node END [Exo_Suit]
+[2017.01.05-05.42.25:893][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:893][ 87]LogFbx: Dumping Node START [EXO_Body] 
+[2017.01.05-05.42.25:894][ 87]LogFbx: 	Total Deformer Count -886591984.
+[2017.01.05-05.42.25:894][ 87]LogFbx: 		[Node 1] 5 (Type Skin).
+[2017.01.05-05.42.25:894][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:894][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:894][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Body (Type Mesh).
+[2017.01.05-05.42.25:894][ 87]LogFbx: Dumping Node END [EXO_Body]
+[2017.01.05-05.42.25:894][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:894][ 87]LogFbx: Dumping Node START [EXO_BrowsLashes] 
+[2017.01.05-05.42.25:894][ 87]LogFbx: 	Total Deformer Count -896968384.
+[2017.01.05-05.42.25:894][ 87]LogFbx: 		[Node 1] 6 (Type Skin).
+[2017.01.05-05.42.25:894][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:894][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:894][ 87]LogFbx: 		[Node Attribute Child 1] EXO_BrowsLashes (Type Mesh).
+[2017.01.05-05.42.25:894][ 87]LogFbx: Dumping Node END [EXO_BrowsLashes]
+[2017.01.05-05.42.25:894][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:894][ 87]LogFbx: Dumping Node START [EXO_Teeth] 
+[2017.01.05-05.42.25:894][ 87]LogFbx: 	Total Deformer Count -898287552.
+[2017.01.05-05.42.25:895][ 87]LogFbx: 		[Node 1] 7 (Type Skin).
+[2017.01.05-05.42.25:895][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:895][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:895][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Teeth (Type Mesh).
+[2017.01.05-05.42.25:895][ 87]LogFbx: Dumping Node END [EXO_Teeth]
+[2017.01.05-05.42.25:895][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:895][ 87]LogFbx: Dumping Node START [EXO_Eyes] 
+[2017.01.05-05.42.25:895][ 87]LogFbx: 	Total Deformer Count -886591984.
+[2017.01.05-05.42.25:895][ 87]LogFbx: 		[Node 1]  (Type Skin).
+[2017.01.05-05.42.25:895][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:895][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:895][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Eyes (Type Mesh).
+[2017.01.05-05.42.25:895][ 87]LogFbx: Dumping Node END [EXO_Eyes]
+[2017.01.05-05.42.25:895][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:895][ 87]LogFbx: Dumping Node START [EXO_EyesSpec] 
+[2017.01.05-05.42.25:895][ 87]LogFbx: 	Total Deformer Count -896969904.
+[2017.01.05-05.42.25:896][ 87]LogFbx: 		[Node 1] 1 (Type Skin).
+[2017.01.05-05.42.25:896][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:896][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:896][ 87]LogFbx: 		[Node Attribute Child 1] EXO_EyesSpec (Type Mesh).
+[2017.01.05-05.42.25:896][ 87]LogFbx: Dumping Node END [EXO_EyesSpec]
+[2017.01.05-05.42.25:896][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:896][ 87]LogFbx: Dumping Node START [EXO_Caruncula] 
+[2017.01.05-05.42.25:896][ 87]LogFbx: 	Total Deformer Count -896969904.
+[2017.01.05-05.42.25:896][ 87]LogFbx: 		[Node 1] 2 (Type Skin).
+[2017.01.05-05.42.25:896][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:896][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:896][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Caruncula (Type Mesh).
+[2017.01.05-05.42.25:896][ 87]LogFbx: Dumping Node END [EXO_Caruncula]
+[2017.01.05-05.42.25:896][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:896][ 87]LogFbx: Dumping Node START [EXO_HeadMask] 
+[2017.01.05-05.42.25:896][ 87]LogFbx: 	Total Deformer Count -896969904.
+[2017.01.05-05.42.25:897][ 87]LogFbx: 		[Node 1] 3 (Type Skin).
+[2017.01.05-05.42.25:897][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:897][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:897][ 87]LogFbx: 		[Node Attribute Child 1] EXO_HeadMask (Type Mesh).
+[2017.01.05-05.42.25:897][ 87]LogFbx: Dumping Node END [EXO_HeadMask]
+[2017.01.05-05.42.25:897][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:897][ 87]LogFbx: Dumping Node START [Exo_Suit] 
+[2017.01.05-05.42.25:897][ 87]LogFbx: 	Total Deformer Count -886591984.
+[2017.01.05-05.42.25:897][ 87]LogFbx: 		[Node 1] 4 (Type Skin).
+[2017.01.05-05.42.25:897][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:897][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:897][ 87]LogFbx: 		[Node Attribute Child 1] Exo_Suit (Type Mesh).
+[2017.01.05-05.42.25:897][ 87]LogFbx: Dumping Node END [Exo_Suit]
+[2017.01.05-05.42.25:897][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:897][ 87]LogFbx: Dumping Node START [EXO_Body] 
+[2017.01.05-05.42.25:897][ 87]LogFbx: 	Total Deformer Count -886591984.
+[2017.01.05-05.42.25:897][ 87]LogFbx: 		[Node 1] 5 (Type Skin).
+[2017.01.05-05.42.25:898][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:898][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:898][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Body (Type Mesh).
+[2017.01.05-05.42.25:898][ 87]LogFbx: Dumping Node END [EXO_Body]
+[2017.01.05-05.42.25:898][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:898][ 87]LogFbx: Dumping Node START [EXO_BrowsLashes] 
+[2017.01.05-05.42.25:898][ 87]LogFbx: 	Total Deformer Count -896972464.
+[2017.01.05-05.42.25:898][ 87]LogFbx: 		[Node 1] 6 (Type Skin).
+[2017.01.05-05.42.25:898][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:898][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:898][ 87]LogFbx: 		[Node Attribute Child 1] EXO_BrowsLashes (Type Mesh).
+[2017.01.05-05.42.25:898][ 87]LogFbx: Dumping Node END [EXO_BrowsLashes]
+[2017.01.05-05.42.25:898][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:898][ 87]LogFbx: Dumping Node START [EXO_Teeth] 
+[2017.01.05-05.42.25:898][ 87]LogFbx: 	Total Deformer Count -898287424.
+[2017.01.05-05.42.25:898][ 87]LogFbx: 		[Node 1] 7 (Type Skin).
+[2017.01.05-05.42.25:898][ 87]LogFbx: =================================================
+[2017.01.05-05.42.25:898][ 87]LogFbx: 	Attribute () Type (4).
+[2017.01.05-05.42.25:899][ 87]LogFbx: 		[Node Attribute Child 1] EXO_Teeth (Type Mesh).
+[2017.01.05-05.42.25:899][ 87]LogFbx: Dumping Node END [EXO_Teeth]
+[2017.01.05-05.42.25:901][ 87]LogFbx: SortedLinks :(0) Hips
+[2017.01.05-05.42.25:902][ 87]LogFbx: SortedLinks :(1) Spine
+[2017.01.05-05.42.25:902][ 87]LogFbx: SortedLinks :(2) Spine1
+[2017.01.05-05.42.25:902][ 87]LogFbx: SortedLinks :(3) Spine2
+[2017.01.05-05.42.25:902][ 87]LogFbx: SortedLinks :(4) Neck
+[2017.01.05-05.42.25:902][ 87]LogFbx: SortedLinks :(5) Neck1
+[2017.01.05-05.42.25:902][ 87]LogFbx: SortedLinks :(6) Head
+[2017.01.05-05.42.25:902][ 87]LogFbx: SortedLinks :(7) HeadTop_End
+[2017.01.05-05.42.25:902][ 87]LogFbx: SortedLinks :(8) L_Ear
+[2017.01.05-05.42.25:902][ 87]LogFbx: SortedLinks :(9) Jaw
+[2017.01.05-05.42.25:902][ 87]LogFbx: SortedLinks :(10) TongueBack
+[2017.01.05-05.42.25:902][ 87]LogFbx: SortedLinks :(11) TongueMid
+[2017.01.05-05.42.25:902][ 87]LogFbx: SortedLinks :(12) TongueTip
+[2017.01.05-05.42.25:902][ 87]LogFbx: SortedLinks :(13) Chin
+[2017.01.05-05.42.25:902][ 87]LogFbx: SortedLinks :(14) LowerChin
+[2017.01.05-05.42.25:902][ 87]LogFbx: SortedLinks :(15) L_Temple
+[2017.01.05-05.42.25:902][ 87]LogFbx: SortedLinks :(16) L_IOuterBrow
+[2017.01.05-05.42.25:902][ 87]LogFbx: SortedLinks :(17) L_MidBrow
+[2017.01.05-05.42.25:902][ 87]LogFbx: SortedLinks :(18) L_InnerBrow
+[2017.01.05-05.42.25:903][ 87]LogFbx: SortedLinks :(19) L_Eye
+[2017.01.05-05.42.25:903][ 87]LogFbx: SortedLinks :(20) L_EyelidLower
+[2017.01.05-05.42.25:903][ 87]LogFbx: SortedLinks :(21) L_EyelidUpper
+[2017.01.05-05.42.25:903][ 87]LogFbx: SortedLinks :(22) L_InnerCheek
+[2017.01.05-05.42.25:903][ 87]LogFbx: SortedLinks :(23) L_LowerCheek
+[2017.01.05-05.42.25:903][ 87]LogFbx: SortedLinks :(24) L_LipCorner
+[2017.01.05-05.42.25:903][ 87]LogFbx: SortedLinks :(25) L_LipCornerLowTweak
+[2017.01.05-05.42.25:903][ 87]LogFbx: SortedLinks :(26) L_LipCornerUpTweak
+[2017.01.05-05.42.25:903][ 87]LogFbx: SortedLinks :(27) L_LipLower
+[2017.01.05-05.42.25:903][ 87]LogFbx: SortedLinks :(28) L_LipUpper
+[2017.01.05-05.42.25:903][ 87]LogFbx: SortedLinks :(29) LipMidLower
+[2017.01.05-05.42.25:903][ 87]LogFbx: SortedLinks :(30) LipMidUpper
+[2017.01.05-05.42.25:903][ 87]LogFbx: SortedLinks :(31) L_CheekFold
+[2017.01.05-05.42.25:903][ 87]LogFbx: SortedLinks :(32) L_Nostril
+[2017.01.05-05.42.25:903][ 87]LogFbx: SortedLinks :(33) Scalp
+[2017.01.05-05.42.25:903][ 87]LogFbx: SortedLinks :(34) L_OuterCheek
+[2017.01.05-05.42.25:903][ 87]LogFbx: SortedLinks :(35) R_LipLower
+[2017.01.05-05.42.25:903][ 87]LogFbx: SortedLinks :(36) RightNostril
+[2017.01.05-05.42.25:903][ 87]LogFbx: SortedLinks :(37) R_CheekFold
+[2017.01.05-05.42.25:904][ 87]LogFbx: SortedLinks :(38) R_LowerCheek
+[2017.01.05-05.42.25:904][ 87]LogFbx: SortedLinks :(39) R_gLipCorner
+[2017.01.05-05.42.25:904][ 87]LogFbx: SortedLinks :(40) R_gLipCornerLowTweak
+[2017.01.05-05.42.25:904][ 87]LogFbx: SortedLinks :(41) R_gLipCornerUpTweak
+[2017.01.05-05.42.25:904][ 87]LogFbx: SortedLinks :(42) R_LipUpper
+[2017.01.05-05.42.25:904][ 87]LogFbx: SortedLinks :(43) R_OuterCheek
+[2017.01.05-05.42.25:904][ 87]LogFbx: SortedLinks :(44) MidBrows
+[2017.01.05-05.42.25:904][ 87]LogFbx: SortedLinks :(45) R_InnerBrow
+[2017.01.05-05.42.25:904][ 87]LogFbx: SortedLinks :(46) R_MidBrow
+[2017.01.05-05.42.25:904][ 87]LogFbx: SortedLinks :(47) R_IOuterBrow
+[2017.01.05-05.42.25:904][ 87]LogFbx: SortedLinks :(48) R_Eye
+[2017.01.05-05.42.25:904][ 87]LogFbx: SortedLinks :(49) R_EyelidLower
+[2017.01.05-05.42.25:904][ 87]LogFbx: SortedLinks :(50) R_EyelidUpper
+[2017.01.05-05.42.25:904][ 87]LogFbx: SortedLinks :(51) R_Temple
+[2017.01.05-05.42.25:904][ 87]LogFbx: SortedLinks :(52) R_Ear
+[2017.01.05-05.42.25:904][ 87]LogFbx: SortedLinks :(53) R_InnerCheek
+[2017.01.05-05.42.25:904][ 87]LogFbx: SortedLinks :(54) Throat
+[2017.01.05-05.42.25:904][ 87]LogFbx: SortedLinks :(55) LeftShoulder
+[2017.01.05-05.42.25:904][ 87]LogFbx: SortedLinks :(56) LeftArm
+[2017.01.05-05.42.25:904][ 87]LogFbx: SortedLinks :(57) LeftForeArm
+[2017.01.05-05.42.25:905][ 87]LogFbx: SortedLinks :(58) LeftHand
+[2017.01.05-05.42.25:905][ 87]LogFbx: SortedLinks :(59) LeftHandThumb1
+[2017.01.05-05.42.25:905][ 87]LogFbx: SortedLinks :(60) LeftHandThumb2
+[2017.01.05-05.42.25:905][ 87]LogFbx: SortedLinks :(61) LeftHandThumb3
+[2017.01.05-05.42.25:905][ 87]LogFbx: SortedLinks :(62) LeftHandThumb4
+[2017.01.05-05.42.25:905][ 87]LogFbx: SortedLinks :(63) LeftHandMiddle1
+[2017.01.05-05.42.25:905][ 87]LogFbx: SortedLinks :(64) LeftHandMiddle2
+[2017.01.05-05.42.25:905][ 87]LogFbx: SortedLinks :(65) LeftHandMiddle3
+[2017.01.05-05.42.25:905][ 87]LogFbx: SortedLinks :(66) LeftHandMiddle4
+[2017.01.05-05.42.25:905][ 87]LogFbx: SortedLinks :(67) LeftHandIndex1
+[2017.01.05-05.42.25:905][ 87]LogFbx: SortedLinks :(68) LeftHandIndex2
+[2017.01.05-05.42.25:905][ 87]LogFbx: SortedLinks :(69) LeftHandIndex3
+[2017.01.05-05.42.25:905][ 87]LogFbx: SortedLinks :(70) LeftHandIndex4
+[2017.01.05-05.42.25:905][ 87]LogFbx: SortedLinks :(71) LeftHandRing1
+[2017.01.05-05.42.25:905][ 87]LogFbx: SortedLinks :(72) LeftHandRing2
+[2017.01.05-05.42.25:905][ 87]LogFbx: SortedLinks :(73) LeftHandRing3
+[2017.01.05-05.42.25:905][ 87]LogFbx: SortedLinks :(74) LeftHandRing4
+[2017.01.05-05.42.25:905][ 87]LogFbx: SortedLinks :(75) LeftHandPinky1
+[2017.01.05-05.42.25:905][ 87]LogFbx: SortedLinks :(76) LeftHandPinky2
+[2017.01.05-05.42.25:906][ 87]LogFbx: SortedLinks :(77) LeftHandPinky3
+[2017.01.05-05.42.25:906][ 87]LogFbx: SortedLinks :(78) LeftHandPinky4
+[2017.01.05-05.42.25:906][ 87]LogFbx: SortedLinks :(79) RightShoulder
+[2017.01.05-05.42.25:906][ 87]LogFbx: SortedLinks :(80) RightArm
+[2017.01.05-05.42.25:906][ 87]LogFbx: SortedLinks :(81) RightForeArm
+[2017.01.05-05.42.25:906][ 87]LogFbx: SortedLinks :(82) RightHand
+[2017.01.05-05.42.25:906][ 87]LogFbx: SortedLinks :(83) RightHandThumb1
+[2017.01.05-05.42.25:906][ 87]LogFbx: SortedLinks :(84) RightHandThumb2
+[2017.01.05-05.42.25:906][ 87]LogFbx: SortedLinks :(85) RightHandThumb3
+[2017.01.05-05.42.25:906][ 87]LogFbx: SortedLinks :(86) RightHandThumb4
+[2017.01.05-05.42.25:906][ 87]LogFbx: SortedLinks :(87) RightHandIndex1
+[2017.01.05-05.42.25:906][ 87]LogFbx: SortedLinks :(88) RightHandIndex2
+[2017.01.05-05.42.25:906][ 87]LogFbx: SortedLinks :(89) RightHandIndex3
+[2017.01.05-05.42.25:906][ 87]LogFbx: SortedLinks :(90) RightHandIndex4
+[2017.01.05-05.42.25:906][ 87]LogFbx: SortedLinks :(91) RightHandMiddle1
+[2017.01.05-05.42.25:906][ 87]LogFbx: SortedLinks :(92) RightHandMiddle2
+[2017.01.05-05.42.25:906][ 87]LogFbx: SortedLinks :(93) RightHandMiddle3
+[2017.01.05-05.42.25:906][ 87]LogFbx: SortedLinks :(94) RightHandMiddle4
+[2017.01.05-05.42.25:907][ 87]LogFbx: SortedLinks :(95) RightHandRing1
+[2017.01.05-05.42.25:907][ 87]LogFbx: SortedLinks :(96) RightHandRing2
+[2017.01.05-05.42.25:907][ 87]LogFbx: SortedLinks :(97) RightHandRing3
+[2017.01.05-05.42.25:907][ 87]LogFbx: SortedLinks :(98) RightHandRing4
+[2017.01.05-05.42.25:907][ 87]LogFbx: SortedLinks :(99) RightHandPinky1
+[2017.01.05-05.42.25:907][ 87]LogFbx: SortedLinks :(100) RightHandPinky2
+[2017.01.05-05.42.25:907][ 87]LogFbx: SortedLinks :(101) RightHandPinky3
+[2017.01.05-05.42.25:907][ 87]LogFbx: SortedLinks :(102) RightHandPinky4
+[2017.01.05-05.42.25:907][ 87]LogFbx: SortedLinks :(103) LeftUpLeg
+[2017.01.05-05.42.25:907][ 87]LogFbx: SortedLinks :(104) LeftLeg
+[2017.01.05-05.42.25:907][ 87]LogFbx: SortedLinks :(105) LeftFoot
+[2017.01.05-05.42.25:907][ 87]LogFbx: SortedLinks :(106) LeftToeBase
+[2017.01.05-05.42.25:907][ 87]LogFbx: SortedLinks :(107) LeftFootToeBase_End
+[2017.01.05-05.42.25:907][ 87]LogFbx: SortedLinks :(108) RightUpLeg
+[2017.01.05-05.42.25:907][ 87]LogFbx: SortedLinks :(109) RightLeg
+[2017.01.05-05.42.25:907][ 87]LogFbx: SortedLinks :(110) RightFoot
+[2017.01.05-05.42.25:907][ 87]LogFbx: SortedLinks :(111) RightToeBase
+[2017.01.05-05.42.25:907][ 87]LogFbx: SortedLinks :(112) RightFootToeBase_End
+[2017.01.05-05.42.25:909][ 87]LogFbx: Parsing AnimStack mixamo.com
+[2017.01.05-05.42.25:941][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/Exo_Gray_Anim'
+[2017.01.05-05.42.25:941][ 87]LogLinker: Can't find file '/Game/Char_Binary/Char/Exo_Gray_Anim'
+[2017.01.05-05.42.26:098][ 87]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Char_Binary/Char/Exo_Gray_Anim.Exo_Gray_Anim
+[2017.01.05-05.42.26:175][ 87]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.01.05-05.42.26:176][ 87]FBXImport:Warning: Warning The following bones are missing from the bind pose:
+HeadTop_End  
+LeftHandThumb4  
+LeftHandMiddle4  
+LeftHandIndex4  
+LeftHandRing4  
+LeftHandPinky4  
+RightHandThumb4  
+RightHandIndex4  
+RightHandMiddle4  
+RightHandRing4  
+RightHandPinky4  
+LeftFootToeBase_End  
+RightFootToeBase_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2017.01.05-05.46.26:042][574]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.303
+[2017.01.05-05.46.26:083][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Char_Binary/Char/Exo_Gray] ([1] browsable assets)...
+[2017.01.05-05.46.26:122][574]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Char_Binary/Char/Exo_Gray.Exo_Gray]
+[2017.01.05-05.46.26:122][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char_Binary/Char/Exo_Gray]
+[2017.01.05-05.46.26:344][574]LogSavePackage: Save=203.39ms
+[2017.01.05-05.46.26:344][574]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Exo_Gray_Auto1068178564B4730BE2B561CADCDFBB8AE.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/Exo_Gray_Auto1.uasset'
+[2017.01.05-05.46.26:345][574]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/Exo_Gray_Auto1.uasset
+[2017.01.05-05.46.26:345][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Char_Binary/Char/Eye_MAT] ([1] browsable assets)...
+[2017.01.05-05.46.26:381][574]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Char_Binary/Char/Eye_MAT.Eye_MAT]
+[2017.01.05-05.46.26:381][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char_Binary/Char/Eye_MAT]
+[2017.01.05-05.46.26:455][574]LogSavePackage: Save=63.70ms
+[2017.01.05-05.46.26:455][574]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Eye_MAT_Auto1479E5CD243A9A9486D7A1DB58D092508.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/Eye_MAT_Auto1.uasset'
+[2017.01.05-05.46.26:455][574]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/Eye_MAT_Auto1.uasset
+[2017.01.05-05.46.26:456][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Char_Binary/Char/BODY_diffuse] ([1] browsable assets)...
+[2017.01.05-05.46.26:467][574]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Char_Binary/Char/BODY_diffuse.BODY_diffuse]
+[2017.01.05-05.46.26:467][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char_Binary/Char/BODY_diffuse]
+[2017.01.05-05.46.26:490][574]LogSavePackage: Save=20.60ms
+[2017.01.05-05.46.26:490][574]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/BODY_diffuse_Auto10989DB084AFF4103F2FE859E4B7D0077.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/BODY_diffuse_Auto1.uasset'
+[2017.01.05-05.46.26:491][574]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/BODY_diffuse_Auto1.uasset
+[2017.01.05-05.46.26:492][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Char_Binary/Char/Eye_Spec_MAT] ([1] browsable assets)...
+[2017.01.05-05.46.26:520][574]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Char_Binary/Char/Eye_Spec_MAT.Eye_Spec_MAT]
+[2017.01.05-05.46.26:520][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char_Binary/Char/Eye_Spec_MAT]
+[2017.01.05-05.46.26:545][574]LogSavePackage: Save=23.65ms
+[2017.01.05-05.46.26:545][574]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Eye_Spec_MAT_Auto1B503FC73422CD2BCE29819A422FC5D28.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/Eye_Spec_MAT_Auto1.uasset'
+[2017.01.05-05.46.26:546][574]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/Eye_Spec_MAT_Auto1.uasset
+[2017.01.05-05.46.26:546][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Char_Binary/Char/Body_MAT] ([1] browsable assets)...
+[2017.01.05-05.46.26:574][574]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Char_Binary/Char/Body_MAT.Body_MAT]
+[2017.01.05-05.46.26:574][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char_Binary/Char/Body_MAT]
+[2017.01.05-05.46.26:593][574]LogSavePackage: Save=17.57ms
+[2017.01.05-05.46.26:593][574]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Body_MAT_Auto1D8B4A4F649926A2F54399BB8081F8147.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/Body_MAT_Auto1.uasset'
+[2017.01.05-05.46.26:599][574]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/Body_MAT_Auto1.uasset
+[2017.01.05-05.46.26:600][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Char_Binary/Char/BODY_specular] ([1] browsable assets)...
+[2017.01.05-05.46.26:609][574]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Char_Binary/Char/BODY_specular.BODY_specular]
+[2017.01.05-05.46.26:609][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char_Binary/Char/BODY_specular]
+[2017.01.05-05.46.26:627][574]LogSavePackage: Save=16.87ms
+[2017.01.05-05.46.26:627][574]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/BODY_specular_Auto110EDBFEA495385918E657EBA7DA5A5DE.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/BODY_specular_Auto1.uasset'
+[2017.01.05-05.46.26:629][574]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/BODY_specular_Auto1.uasset
+[2017.01.05-05.46.26:630][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Char_Binary/Char/BODY_normal] ([1] browsable assets)...
+[2017.01.05-05.46.26:641][574]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Char_Binary/Char/BODY_normal.BODY_normal]
+[2017.01.05-05.46.26:641][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char_Binary/Char/BODY_normal]
+[2017.01.05-05.46.26:662][574]LogSavePackage: Save=19.22ms
+[2017.01.05-05.46.26:662][574]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/BODY_normal_Auto1016062CB4A72AB34E31A9AB159E094AC.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/BODY_normal_Auto1.uasset'
+[2017.01.05-05.46.26:663][574]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/BODY_normal_Auto1.uasset
+[2017.01.05-05.46.26:664][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Char_Binary/Char/Exo_MAT] ([1] browsable assets)...
+[2017.01.05-05.46.26:692][574]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Char_Binary/Char/Exo_MAT.Exo_MAT]
+[2017.01.05-05.46.26:693][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char_Binary/Char/Exo_MAT]
+[2017.01.05-05.46.26:713][574]LogSavePackage: Save=17.96ms
+[2017.01.05-05.46.26:713][574]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Exo_MAT_Auto1B3ED6E3545B0E6362723EE844FA21C47.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/Exo_MAT_Auto1.uasset'
+[2017.01.05-05.46.26:714][574]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/Exo_MAT_Auto1.uasset
+[2017.01.05-05.46.26:715][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Char_Binary/Char/EXO_diffuse] ([1] browsable assets)...
+[2017.01.05-05.46.26:725][574]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Char_Binary/Char/EXO_diffuse.EXO_diffuse]
+[2017.01.05-05.46.26:725][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char_Binary/Char/EXO_diffuse]
+[2017.01.05-05.46.26:746][574]LogSavePackage: Save=19.52ms
+[2017.01.05-05.46.26:746][574]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/EXO_diffuse_Auto19F9715A84312FCADDE72AD819956BF04.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/EXO_diffuse_Auto1.uasset'
+[2017.01.05-05.46.26:747][574]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/EXO_diffuse_Auto1.uasset
+[2017.01.05-05.46.26:748][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Char_Binary/Char/EXO_specular] ([1] browsable assets)...
+[2017.01.05-05.46.26:757][574]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Char_Binary/Char/EXO_specular.EXO_specular]
+[2017.01.05-05.46.26:757][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char_Binary/Char/EXO_specular]
+[2017.01.05-05.46.26:772][574]LogSavePackage: Save=12.83ms
+[2017.01.05-05.46.26:772][574]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/EXO_specular_Auto1E69EFD3D4421ACEF1C72D0B49EC72557.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/EXO_specular_Auto1.uasset'
+[2017.01.05-05.46.26:773][574]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/EXO_specular_Auto1.uasset
+[2017.01.05-05.46.26:773][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Char_Binary/Char/EXO_normal] ([1] browsable assets)...
+[2017.01.05-05.46.26:784][574]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Char_Binary/Char/EXO_normal.EXO_normal]
+[2017.01.05-05.46.26:784][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char_Binary/Char/EXO_normal]
+[2017.01.05-05.46.26:805][574]LogSavePackage: Save=19.77ms
+[2017.01.05-05.46.26:806][574]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/EXO_normal_Auto12AAB83384B30D96165133EACB4CCE4B7.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/EXO_normal_Auto1.uasset'
+[2017.01.05-05.46.26:806][574]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/EXO_normal_Auto1.uasset
+[2017.01.05-05.46.26:807][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Char_Binary/Char/Brows_MAT] ([1] browsable assets)...
+[2017.01.05-05.46.26:835][574]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Char_Binary/Char/Brows_MAT.Brows_MAT]
+[2017.01.05-05.46.26:835][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char_Binary/Char/Brows_MAT]
+[2017.01.05-05.46.26:851][574]LogSavePackage: Save=15.11ms
+[2017.01.05-05.46.26:851][574]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Brows_MAT_Auto19211B5694B8F3CD62674E7AF1042432D.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/Brows_MAT_Auto1.uasset'
+[2017.01.05-05.46.26:852][574]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/Brows_MAT_Auto1.uasset
+[2017.01.05-05.46.26:853][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Char_Binary/Char/Exo_Gray_PhysicsAsset] ([1] browsable assets)...
+[2017.01.05-05.46.26:853][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char_Binary/Char/Exo_Gray_PhysicsAsset]
+[2017.01.05-05.46.26:867][574]LogSavePackage: Save=13.06ms
+[2017.01.05-05.46.26:867][574]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Exo_Gray_PhysicsAsset_Auto1D885A13F484F9820E978218876F2709A.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/Exo_Gray_PhysicsAsset_Auto1.uasset'
+[2017.01.05-05.46.26:868][574]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/Exo_Gray_PhysicsAsset_Auto1.uasset
+[2017.01.05-05.46.26:868][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Char_Binary/Char/Exo_Gray_Skeleton] ([1] browsable assets)...
+[2017.01.05-05.46.26:869][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char_Binary/Char/Exo_Gray_Skeleton]
+[2017.01.05-05.46.26:876][574]LogSavePackage: Save=5.62ms
+[2017.01.05-05.46.26:876][574]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Exo_Gray_Skeleton_Auto1F90EADF34ECD683E8C22BDB26FBC879E.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/Exo_Gray_Skeleton_Auto1.uasset'
+[2017.01.05-05.46.26:877][574]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/Exo_Gray_Skeleton_Auto1.uasset
+[2017.01.05-05.46.26:877][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Char_Binary/Char/Exo_Gray_Anim] ([1] browsable assets)...
+[2017.01.05-05.46.26:883][574]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Char_Binary/Char/Exo_Gray_Anim.Exo_Gray_Anim]
+[2017.01.05-05.46.26:884][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char_Binary/Char/Exo_Gray_Anim]
+[2017.01.05-05.46.26:894][574]LogSavePackage: Save=9.23ms
+[2017.01.05-05.46.26:895][574]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Exo_Gray_Anim_Auto1D221D3544C4708D12A5A63B06B4B4241.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/Exo_Gray_Anim_Auto1.uasset'
+[2017.01.05-05.46.26:896][574]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/Exo_Gray_Anim_Auto1.uasset
+[2017.01.05-05.46.26:896][574]LogFileHelpers: Auto-saving content packages took 0.850
+[2017.01.05-05.48.24:643][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Texturas/EXO_specular" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Texturas/EXO_specular.uasset" SILENT=true
+[2017.01.05-05.48.24:767][472]LogSavePackage: Save=122.72ms
+[2017.01.05-05.48.24:767][472]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/EXO_specularA8437A6D4A50652DE26E3B94125B3143.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Texturas/EXO_specular.uasset'
+[2017.01.05-05.48.24:769][472]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Texturas/EXO_specular.uasset
+[2017.01.05-05.48.24:783][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Texturas/EXO_normal" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Texturas/EXO_normal.uasset" SILENT=true
+[2017.01.05-05.48.25:443][472]LogSavePackage: Save=657.07ms
+[2017.01.05-05.48.25:443][472]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/EXO_normal5B0FABA846335494BB4A7B9AEBA00A30.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Texturas/EXO_normal.uasset'
+[2017.01.05-05.48.25:444][472]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Texturas/EXO_normal.uasset
+[2017.01.05-05.48.25:458][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Texturas/EXO_diffuse" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Texturas/EXO_diffuse.uasset" SILENT=true
+[2017.01.05-05.48.25:982][472]LogSavePackage: Save=522.66ms
+[2017.01.05-05.48.25:982][472]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/EXO_diffuseCCC87CDC409EBC5CB9DB88A3ED689AB3.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Texturas/EXO_diffuse.uasset'
+[2017.01.05-05.48.25:984][472]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Texturas/EXO_diffuse.uasset
+[2017.01.05-05.48.26:002][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Texturas/BODY_specular" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Texturas/BODY_specular.uasset" SILENT=true
+[2017.01.05-05.48.26:331][472]LogSavePackage: Save=327.57ms
+[2017.01.05-05.48.26:331][472]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/BODY_specular75B60EE94C7C01008ED1C6B98E6CCAA5.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Texturas/BODY_specular.uasset'
+[2017.01.05-05.48.26:333][472]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Texturas/BODY_specular.uasset
+[2017.01.05-05.48.26:347][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Texturas/BODY_normal" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Texturas/BODY_normal.uasset" SILENT=true
+[2017.01.05-05.48.26:941][472]LogSavePackage: Save=591.47ms
+[2017.01.05-05.48.26:941][472]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/BODY_normal68374CDA456A36D37BABFA87FD319505.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Texturas/BODY_normal.uasset'
+[2017.01.05-05.48.26:943][472]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Texturas/BODY_normal.uasset
+[2017.01.05-05.48.26:956][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Texturas/BODY_diffuse" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Texturas/BODY_diffuse.uasset" SILENT=true
+[2017.01.05-05.48.27:509][472]LogSavePackage: Save=550.41ms
+[2017.01.05-05.48.27:509][472]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/BODY_diffuse02BE758E461CD3CCB1B013953E8B43BE.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Texturas/BODY_diffuse.uasset'
+[2017.01.05-05.48.27:511][472]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Texturas/BODY_diffuse.uasset
+[2017.01.05-05.48.37:176][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Material/Body_MAT" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Body_MAT.uasset" SILENT=true
+[2017.01.05-05.48.37:195][342]LogSavePackage: Save=17.79ms
+[2017.01.05-05.48.37:195][342]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Body_MAT7BD6186244968D2386B16ABEDEEFF052.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Body_MAT.uasset'
+[2017.01.05-05.48.37:197][342]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Body_MAT.uasset
+[2017.01.05-05.48.37:217][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Material/Brows_MAT" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Brows_MAT.uasset" SILENT=true
+[2017.01.05-05.48.37:249][342]LogSavePackage: Save=14.88ms
+[2017.01.05-05.48.37:250][342]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Brows_MATA16DCABE4413F53E4649ABB9FD5AA8A1.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Brows_MAT.uasset'
+[2017.01.05-05.48.37:252][342]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Brows_MAT.uasset
+[2017.01.05-05.48.37:261][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Material/Exo_Gray_Anim" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Exo_Gray_Anim.uasset" SILENT=true
+[2017.01.05-05.48.37:271][342]LogSavePackage: Save=8.58ms
+[2017.01.05-05.48.37:271][342]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Exo_Gray_Anim4D24AC2046125754D5BB928ADD39E667.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Exo_Gray_Anim.uasset'
+[2017.01.05-05.48.37:273][342]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Exo_Gray_Anim.uasset
+[2017.01.05-05.48.37:293][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Material/Exo_MAT" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Exo_MAT.uasset" SILENT=true
+[2017.01.05-05.48.37:311][342]LogSavePackage: Save=17.37ms
+[2017.01.05-05.48.37:312][342]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Exo_MAT11A20D6048865393DD541ABBBA79DDC1.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Exo_MAT.uasset'
+[2017.01.05-05.48.37:313][342]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Exo_MAT.uasset
+[2017.01.05-05.48.37:333][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Material/Eye_MAT" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Eye_MAT.uasset" SILENT=true
+[2017.01.05-05.48.37:350][342]LogSavePackage: Save=15.95ms
+[2017.01.05-05.48.37:350][342]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Eye_MATD302B62C4990D3939BB04F961A5F8022.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Eye_MAT.uasset'
+[2017.01.05-05.48.37:352][342]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Eye_MAT.uasset
+[2017.01.05-05.48.37:372][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Material/Eye_Spec_MAT" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Eye_Spec_MAT.uasset" SILENT=true
+[2017.01.05-05.48.37:389][342]LogSavePackage: Save=14.62ms
+[2017.01.05-05.48.37:389][342]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Eye_Spec_MAT05A502EB4B9F38F0B72731B970FA0F04.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Eye_Spec_MAT.uasset'
+[2017.01.05-05.48.37:391][342]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Eye_Spec_MAT.uasset
+[2017.01.05-05.48.44:100][988]LogLinker:Warning: Can't find file '/Game/Char_Binary/Char/Exo_Gray_Skeleton'
+[2017.01.05-05.48.44:100][988]LogLinker:Warning: Can't find file for asset '/Game/Char_Binary/Char/Exo_Gray_Skeleton' while loading D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Exo_Gray_Anim.uasset.
+[2017.01.05-05.48.44:114][988]LoadErrors:Error: Error /Game/Char_Binary/Char/Material/Exo_Gray_Anim : Can't find file for asset. /Game/Char_Binary/Char/Exo_Gray_Skeleton
+[2017.01.05-05.48.44:114][988]LogLinker:Warning: Can't find file '/Game/Char_Binary/Char/Exo_Gray_Skeleton'
+[2017.01.05-05.48.44:114][988]LogLinker:Warning: Can't find file for asset '/Game/Char_Binary/Char/Exo_Gray_Skeleton' while loading D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Exo_Gray_Anim.uasset.
+[2017.01.05-05.48.44:171][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Mesh/Exo_Gray" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Mesh/Exo_Gray.uasset" SILENT=true
+[2017.01.05-05.48.44:234][988]LogSavePackage: Save=61.42ms
+[2017.01.05-05.48.44:235][988]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Exo_Gray5E8F933646FD2246D07D228E53DA0B30.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Mesh/Exo_Gray.uasset'
+[2017.01.05-05.48.44:237][988]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Mesh/Exo_Gray.uasset
+[2017.01.05-05.48.44:257][988]LogSavePackage: Save=13.26ms
+[2017.01.05-05.48.44:257][988]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Exo_Gray_PhysicsAsset4F3F8F7842D9F4F97CDD898B40AB6663.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Mesh/Exo_Gray_PhysicsAsset.uasset'
+[2017.01.05-05.48.44:259][988]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Mesh/Exo_Gray_PhysicsAsset.uasset
+[2017.01.05-05.48.44:263][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Mesh/Exo_Gray_Skeleton" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Mesh/Exo_Gray_Skeleton.uasset" SILENT=true
+[2017.01.05-05.48.44:345][988]LogSavePackage: Save=5.90ms
+[2017.01.05-05.48.44:345][988]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Exo_Gray_SkeletonEA223F374E4BBEFD893F8480075B83E3.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Mesh/Exo_Gray_Skeleton.uasset'
+[2017.01.05-05.48.44:347][988]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Mesh/Exo_Gray_Skeleton.uasset
+[2017.01.05-05.48.44:469][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Material/Exo_Gray_Anim" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Exo_Gray_Anim.uasset" SILENT=true
+[2017.01.05-05.48.44:484][988]LogSavePackage: Save=8.27ms
+[2017.01.05-05.48.44:484][988]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Exo_Gray_Anim0FE78ADA4B59CBA4D5AA49B6F43D3743.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Exo_Gray_Anim.uasset'
+[2017.01.05-05.48.44:484][988]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Material/Exo_Gray_Anim.uasset
+[2017.01.05-05.48.48:832][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/BODY_diffuse" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/BODY_diffuse.uasset" SILENT=true
+[2017.01.05-05.48.48:837][268]LogSavePackage: Save=3.68ms
+[2017.01.05-05.48.48:837][268]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/BODY_diffuseF70CE52E405A7A8CFE8FE38FC3966D04.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/BODY_diffuse.uasset'
+[2017.01.05-05.48.48:844][268]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/BODY_diffuse.uasset
+[2017.01.05-05.48.48:847][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Body_MAT" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Body_MAT.uasset" SILENT=true
+[2017.01.05-05.48.48:879][268]LogSavePackage: Save=3.74ms
+[2017.01.05-05.48.48:879][268]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Body_MAT9C7F97194110CF7E90091998D56967AA.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Body_MAT.uasset'
+[2017.01.05-05.48.48:885][268]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Body_MAT.uasset
+[2017.01.05-05.48.48:889][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/BODY_normal" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/BODY_normal.uasset" SILENT=true
+[2017.01.05-05.48.48:894][268]LogSavePackage: Save=3.82ms
+[2017.01.05-05.48.48:894][268]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/BODY_normal18CEBB7F47AFA7AF371D38A2B886C2DD.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/BODY_normal.uasset'
+[2017.01.05-05.48.48:900][268]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/BODY_normal.uasset
+[2017.01.05-05.48.48:904][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/BODY_specular" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/BODY_specular.uasset" SILENT=true
+[2017.01.05-05.48.48:912][268]LogSavePackage: Save=3.64ms
+[2017.01.05-05.48.48:912][268]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/BODY_specularB4C973304D409EC850B14EA0732C6BC0.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/BODY_specular.uasset'
+[2017.01.05-05.48.48:918][268]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/BODY_specular.uasset
+[2017.01.05-05.48.48:921][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Brows_MAT" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Brows_MAT.uasset" SILENT=true
+[2017.01.05-05.48.48:926][268]LogSavePackage: Save=3.65ms
+[2017.01.05-05.48.48:926][268]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Brows_MAT637D5695404817173943A486819828B3.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Brows_MAT.uasset'
+[2017.01.05-05.48.48:933][268]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Brows_MAT.uasset
+[2017.01.05-05.48.48:936][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/EXO_diffuse" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/EXO_diffuse.uasset" SILENT=true
+[2017.01.05-05.48.48:942][268]LogSavePackage: Save=3.91ms
+[2017.01.05-05.48.48:942][268]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/EXO_diffuse70A40FC94673477A650E8C98124A6339.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/EXO_diffuse.uasset'
+[2017.01.05-05.48.48:949][268]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/EXO_diffuse.uasset
+[2017.01.05-05.48.48:953][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Exo_Gray" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Exo_Gray.uasset" SILENT=true
+[2017.01.05-05.48.48:958][268]LogSavePackage: Save=3.71ms
+[2017.01.05-05.48.48:958][268]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Exo_Gray7AB0285049E0DEF8BF130CB5EBE3CFC1.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Exo_Gray.uasset'
+[2017.01.05-05.48.48:965][268]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Exo_Gray.uasset
+[2017.01.05-05.48.48:967][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Exo_Gray_Anim" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Exo_Gray_Anim.uasset" SILENT=true
+[2017.01.05-05.48.48:985][268]LogSavePackage: Save=16.21ms
+[2017.01.05-05.48.48:985][268]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Exo_Gray_AnimF5A737494FB8786ADF021AA187BCDE06.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Exo_Gray_Anim.uasset'
+[2017.01.05-05.48.48:992][268]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Exo_Gray_Anim.uasset
+[2017.01.05-05.48.48:995][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Exo_Gray_PhysicsAsset" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Exo_Gray_PhysicsAsset.uasset" SILENT=true
+[2017.01.05-05.48.49:000][268]LogSavePackage: Save=3.90ms
+[2017.01.05-05.48.49:000][268]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Exo_Gray_PhysicsAsset2563542F4EEEA0C10545E9BE65E3AE8C.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Exo_Gray_PhysicsAsset.uasset'
+[2017.01.05-05.48.49:006][268]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Exo_Gray_PhysicsAsset.uasset
+[2017.01.05-05.48.49:009][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Exo_Gray_Skeleton" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Exo_Gray_Skeleton.uasset" SILENT=true
+[2017.01.05-05.48.49:015][268]LogSavePackage: Save=3.59ms
+[2017.01.05-05.48.49:015][268]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Exo_Gray_Skeleton8C8269B445C428BA29269392AF01A13F.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Exo_Gray_Skeleton.uasset'
+[2017.01.05-05.48.49:021][268]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Exo_Gray_Skeleton.uasset
+[2017.01.05-05.48.49:025][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Exo_MAT" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Exo_MAT.uasset" SILENT=true
+[2017.01.05-05.48.49:029][268]LogSavePackage: Save=3.40ms
+[2017.01.05-05.48.49:029][268]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Exo_MAT664567E9422D36ABF0D8B19393F0AAC0.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Exo_MAT.uasset'
+[2017.01.05-05.48.49:035][268]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Exo_MAT.uasset
+[2017.01.05-05.48.49:038][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/EXO_normal" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/EXO_normal.uasset" SILENT=true
+[2017.01.05-05.48.49:043][268]LogSavePackage: Save=3.75ms
+[2017.01.05-05.48.49:043][268]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/EXO_normal453809BA439392440420198916FE9CA4.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/EXO_normal.uasset'
+[2017.01.05-05.48.49:049][268]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/EXO_normal.uasset
+[2017.01.05-05.48.49:052][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/EXO_specular" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/EXO_specular.uasset" SILENT=true
+[2017.01.05-05.48.49:057][268]LogSavePackage: Save=3.53ms
+[2017.01.05-05.48.49:057][268]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/EXO_specular71BE93E24C9D264E2D3F78A3FAB304A7.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/EXO_specular.uasset'
+[2017.01.05-05.48.49:062][268]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/EXO_specular.uasset
+[2017.01.05-05.48.49:064][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Eye_MAT" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Eye_MAT.uasset" SILENT=true
+[2017.01.05-05.48.49:070][268]LogSavePackage: Save=3.53ms
+[2017.01.05-05.48.49:070][268]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Eye_MAT41DEC14C464DE3A126780CB8001D3DC5.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Eye_MAT.uasset'
+[2017.01.05-05.48.49:074][268]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Eye_MAT.uasset
+[2017.01.05-05.48.49:078][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Eye_Spec_MAT" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Eye_Spec_MAT.uasset" SILENT=true
+[2017.01.05-05.48.49:083][268]LogSavePackage: Save=3.60ms
+[2017.01.05-05.48.49:083][268]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Eye_Spec_MAT5F14A3E94D85B75D14C42ABDBD32D9DF.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Eye_Spec_MAT.uasset'
+[2017.01.05-05.48.49:087][268]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Eye_Spec_MAT.uasset
+[2017.01.05-05.49.19:850][133]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPerson_Jump.ThirdPerson_Jump
+[2017.01.05-05.49.19:876][133]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2017.01.05-05.49.19:879][133]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2017.01.05-05.49.19:883][133]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonIdle.ThirdPersonIdle
+[2017.01.05-05.49.19:887][133]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonWalk.ThirdPersonWalk
+[2017.01.05-05.49.19:890][133]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonRun.ThirdPersonRun
+[2017.01.05-05.49.20:088][134]LogAnimation:Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Exo_Gray_Skeleton, removing AnimBP from actor.
+[2017.01.05-05.49.52:265][448]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'ThirdPerson_AnimBP_C_0' or package '/Engine/Transient'.
+[2017.01.05-05.49.52:266][448]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'Default__DEADCLASS_ThirdPerson_AnimBP_C_0' or package '/Engine/Transient'.
+[2017.01.05-05.49.52:266][448]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'ExecuteUbergraph_ThirdPerson_AnimBP' or package '/Engine/Transient'.
+[2017.01.05-05.49.52:267][448]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'Default__DEADCLASS_ThirdPerson_AnimBP_C_1' or package '/Engine/Transient'.
+[2017.01.05-05.49.52:267][448]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_ThirdPerson_AnimBP_C_1' or package '/Engine/Transient'.
+[2017.01.05-05.49.52:268][448]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_ThirdPerson_AnimBP_C_0' or package '/Engine/Transient'.
+[2017.01.05-05.49.52:269][448]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'SkeletalMeshComponent0' or package '/Engine/Transient'.
+[2017.01.05-05.49.52:270][448]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'Default__REINST_SKEL_ThirdPerson_AnimBP_C_9' or package '/Engine/Transient'.
+[2017.01.05-05.49.52:270][448]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_ThirdPerson_AnimBP_C_9' or package '/Engine/Transient'.
+[2017.01.05-05.49.52:271][448]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'Default__REINST_ThirdPerson_AnimBP_C_8' or package '/Engine/Transient'.
+[2017.01.05-05.49.52:272][448]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_ThirdPerson_AnimBP_C_8' or package '/Engine/Transient'.
+[2017.01.05-05.50.13:043][  5]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 111 classes and 0 folders.
+[2017.01.05-05.50.14:586][  5]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2017.01.05-05.56.27:141][ 35]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.052
+[2017.01.05-05.56.27:180][ 35]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2017.01.05-05.56.27:181][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton]
+[2017.01.05-05.56.27:208][ 35]LogSavePackage: Save=5.17ms
+[2017.01.05-05.56.27:209][ 35]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/UE4_Mannequin_Skeleton_Auto2205F08EC49007590DE62468CAFD52B9F.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto2.uasset'
+[2017.01.05-05.56.27:209][ 35]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto2.uasset
+[2017.01.05-05.56.27:210][ 35]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Char_Binary/Char/Mesh/Exo_Gray_Skeleton] ([1] browsable assets)...
+[2017.01.05-05.56.27:210][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char_Binary/Char/Mesh/Exo_Gray_Skeleton]
+[2017.01.05-05.56.27:227][ 35]LogSavePackage: Save=5.69ms
+[2017.01.05-05.56.27:227][ 35]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Exo_Gray_Skeleton_Auto2C3AF059B43F7978430F43C80D864F0A6.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/Mesh/Exo_Gray_Skeleton_Auto2.uasset'
+[2017.01.05-05.56.27:228][ 35]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Char_Binary/Char/Mesh/Exo_Gray_Skeleton_Auto2.uasset
+[2017.01.05-05.56.27:228][ 35]LogFileHelpers: Auto-saving content packages took 0.086
+[2017.01.05-05.56.34:284][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char_Binary/Char/Mesh/Exo_Gray_Skeleton" FILE="D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Mesh/Exo_Gray_Skeleton.uasset" SILENT=true
+[2017.01.05-05.56.34:292][591]LogSavePackage: Save=5.58ms
+[2017.01.05-05.56.34:292][591]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Exo_Gray_SkeletonE4A03BCD47966A53D5C70599F2ADD0C5.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Mesh/Exo_Gray_Skeleton.uasset'
+[2017.01.05-05.56.34:296][591]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Char_Binary/Char/Mesh/Exo_Gray_Skeleton.uasset
+[2017.01.05-05.56.34:308][591]LogSavePackage: Save=5.75ms
+[2017.01.05-05.56.34:308][591]LogSavePackage: Moving 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/UE4_Mannequin_Skeleton8D0535E442199652583EE3A25390A309.tmp' to 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2017.01.05-05.56.34:321][591]LogSavePackage:Display: Finished SavePackage D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2017.01.05-05.57.58:807][378]LogContentBrowser: Native class hierarchy updated for 'PhAT' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.01.05-05.57.58:849][378]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/Char_Binary/Char/Exo_Gray.Exo_Gray'
+[2017.01.05-05.58.00:364][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:433][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:436][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:439][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:443][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:446][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:449][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:452][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:455][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:459][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:462][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:465][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:468][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:471][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:475][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:478][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:481][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:484][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:488][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:491][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:494][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:497][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:500][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:504][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:507][378]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: PhATEdSkeletalMeshComponent_0
+[2017.01.05-05.58.03:777][378]LogRenderer: Reallocating scene render targets to support 1208x924 NumSamples 1 (Frame:291842).
+[2017.01.05-05.58.36:237][ 68]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: DebugSkelMeshComponent_6
+[2017.01.05-05.58.36:237][ 68]LogSkeletalMesh: UPhysicsAssetInstance::InitInstance : Could not find root physics body: DebugSkelMeshComponent_6
+[2017.01.05-06.00.07:971][714]Cmd: QUIT_EDITOR
+[2017.01.05-06.00.08:288][714]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.05-06.00.08:383][714]LogExit: Preparing to exit.
+[2017.01.05-06.00.09:942][714]LogExit: Editor shut down
+[2017.01.05-06.00.09:943][714]LogExit: Transaction tracking system shut down
+[2017.01.05-06.00.11:720][714]LogObj: Freed 0b from 0 cluster array pools.
+[2017.01.05-06.00.11:720][714]LogExit: Object subsystem successfully closed.
+[2017.01.05-06.00.11:935][714]LogD3D11RHI: Shutdown
+[2017.01.05-06.00.11:947][714]LogD3D11RHI: CleanupD3DDevice
+[2017.01.05-06.00.12:154][714]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.01.05-06.00.12:981][714]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.01.05-06.00.12:981][714]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B731DEFD2-459F-EF16-51B4-819072DDD3DD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.1-3224400%2B%2B%2BUE4%2BRelease-4.14&UserID=52ed3b3d4ce3abbda4cbe5b908f59371%7C03bd44dd75f444429f532cbb07098575%7C0e4b8cd2-7ff2-4dea-a4a2-ac050ab251d5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.01.05-06.00.13:046][714]LogModuleManager: Shutting down and abandoning module PhAT (246)
+[2017.01.05-06.00.13:052][714]LogModuleManager: Shutting down and abandoning module BlueprintGraph (245)
+[2017.01.05-06.00.13:052][714]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (244)
+[2017.01.05-06.00.13:080][714]LogModuleManager: Shutting down and abandoning module SkeletonEditor (243)
+[2017.01.05-06.00.13:080][714]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (242)
+[2017.01.05-06.00.13:087][714]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.01.05-06.00.13:094][714]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.01.05-06.00.13:102][714]LogModuleManager: Shutting down and abandoning module WidgetCarousel (239)
+[2017.01.05-06.00.13:102][714]LogModuleManager: Shutting down and abandoning module AddContentDialog (238)
+[2017.01.05-06.00.13:131][714]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.01.05-06.00.13:137][714]LogModuleManager: Shutting down and abandoning module GameplayTags (237)
+[2017.01.05-06.00.13:137][714]LogModuleManager: Shutting down and abandoning module EditorWidgets (236)
+[2017.01.05-06.00.13:137][714]LogModuleManager: Shutting down and abandoning module CollectionManager (235)
+[2017.01.05-06.00.13:155][714]LogDirectoryWatcher: A directory notification for 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Collections/' was aborted.
+[2017.01.05-06.00.13:155][714]LogDirectoryWatcher: A directory notification for 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/Developers/alefr/Collections/' was aborted.
+[2017.01.05-06.00.13:155][714]LogDirectoryWatcher: A directory notification for 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Saved/Collections/' was aborted.
+[2017.01.05-06.00.13:155][714]LogModuleManager: Shutting down and abandoning module SceneOutliner (234)
+[2017.01.05-06.00.13:159][714]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.01.05-06.00.13:176][714]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.01.05-06.00.13:176][714]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.01.05-06.00.13:190][714]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.01.05-06.00.13:190][714]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.01.05-06.00.13:190][714]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.01.05-06.00.13:190][714]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.01.05-06.00.13:190][714]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.01.05-06.00.13:196][714]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.01.05-06.00.13:200][714]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.01.05-06.00.13:204][714]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.01.05-06.00.13:211][714]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.01.05-06.00.13:216][714]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.01.05-06.00.13:224][714]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.01.05-06.00.13:244][714]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.01.05-06.00.13:244][714]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.01.05-06.00.13:244][714]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.01.05-06.00.13:244][714]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.01.05-06.00.13:244][714]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.01.05-06.00.13:244][714]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.01.05-06.00.13:244][714]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.01.05-06.00.13:244][714]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.01.05-06.00.13:244][714]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.01.05-06.00.13:278][714]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.01.05-06.00.13:278][714]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.01.05-06.00.13:278][714]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.01.05-06.00.13:278][714]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.01.05-06.00.13:278][714]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.01.05-06.00.13:278][714]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.01.05-06.00.13:294][714]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.01.05-06.00.13:315][714]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.01.05-06.00.13:327][714]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.01.05-06.00.13:327][714]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.01.05-06.00.13:342][714]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.01.05-06.00.13:342][714]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.01.05-06.00.14:273][714]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.01.05-06.00.14:280][714]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.01.05-06.00.14:280][714]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.01.05-06.00.14:280][714]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.01.05-06.00.14:291][714]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.01.05-06.00.14:302][714]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.01.05-06.00.14:321][714]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.01.05-06.00.14:326][714]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.01.05-06.00.14:351][714]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.01.05-06.00.14:351][714]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.01.05-06.00.14:356][714]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.01.05-06.00.14:366][714]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.01.05-06.00.14:366][714]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.01.05-06.00.14:386][714]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.01.05-06.00.14:400][714]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.01.05-06.00.14:400][714]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.01.05-06.00.14:409][714]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.01.05-06.00.14:418][714]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.01.05-06.00.14:419][714]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.01.05-06.00.14:419][714]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.01.05-06.00.14:419][714]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.01.05-06.00.14:425][714]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.01.05-06.00.14:449][714]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.01.05-06.00.14:466][714]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.01.05-06.00.14:482][714]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.01.05-06.00.14:482][714]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.01.05-06.00.14:541][714]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.01.05-06.00.14:559][714]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.01.05-06.00.14:580][714]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.01.05-06.00.14:621][714]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.01.05-06.00.14:621][714]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.01.05-06.00.14:629][714]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.01.05-06.00.14:629][714]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.01.05-06.00.14:629][714]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.01.05-06.00.14:629][714]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.01.05-06.00.14:644][714]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.01.05-06.00.14:644][714]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.01.05-06.00.14:659][714]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.01.05-06.00.14:665][714]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.01.05-06.00.14:678][714]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.01.05-06.00.14:703][714]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.01.05-06.00.14:703][714]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.01.05-06.00.14:722][714]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.01.05-06.00.14:722][714]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.01.05-06.00.14:722][714]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.01.05-06.00.14:722][714]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.01.05-06.00.14:722][714]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.01.05-06.00.14:722][714]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.01.05-06.00.14:722][714]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.01.05-06.00.14:722][714]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.01.05-06.00.14:740][714]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.01.05-06.00.14:745][714]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.01.05-06.00.14:745][714]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.01.05-06.00.14:777][714]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.01.05-06.00.14:804][714]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.01.05-06.00.14:804][714]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.01.05-06.00.14:804][714]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.01.05-06.00.14:804][714]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.01.05-06.00.14:809][714]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.01.05-06.00.14:823][714]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.01.05-06.00.14:823][714]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.01.05-06.00.14:823][714]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.01.05-06.00.14:823][714]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.01.05-06.00.14:823][714]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.01.05-06.00.14:832][714]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.01.05-06.00.14:832][714]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.01.05-06.00.14:874][714]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.01.05-06.00.14:874][714]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.01.05-06.00.14:874][714]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.01.05-06.00.14:874][714]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.01.05-06.00.14:876][714]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.01.05-06.00.14:878][714]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.01.05-06.00.14:878][714]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.01.05-06.00.14:878][714]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.01.05-06.00.14:878][714]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.01.05-06.00.14:905][714]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.01.05-06.00.14:924][714]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.01.05-06.00.14:933][714]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.01.05-06.00.14:933][714]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.01.05-06.00.14:939][714]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.01.05-06.00.14:939][714]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.01.05-06.00.14:952][714]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.01.05-06.00.14:966][714]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.01.05-06.00.14:972][714]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.01.05-06.00.14:976][714]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.01.05-06.00.14:976][714]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.01.05-06.00.14:979][714]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.01.05-06.00.14:979][714]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.01.05-06.00.14:979][714]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.01.05-06.00.14:989][714]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.01.05-06.00.14:999][714]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.01.05-06.00.14:999][714]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.01.05-06.00.15:010][714]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.01.05-06.00.15:012][714]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.01.05-06.00.15:028][714]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.01.05-06.00.15:129][714]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.01.05-06.00.15:241][714]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.01.05-06.00.15:241][714]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.01.05-06.00.15:247][714]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.01.05-06.00.15:252][714]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.01.05-06.00.15:270][714]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.01.05-06.00.15:270][714]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.01.05-06.00.15:274][714]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.01.05-06.00.15:274][714]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.01.05-06.00.15:274][714]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.01.05-06.00.15:274][714]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.01.05-06.00.15:298][714]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.01.05-06.00.15:309][714]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.01.05-06.00.15:331][714]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.01.05-06.00.15:361][714]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.01.05-06.00.15:361][714]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.01.05-06.00.15:361][714]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.01.05-06.00.15:371][714]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.01.05-06.00.15:407][714]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.01.05-06.00.15:418][714]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.01.05-06.00.15:451][714]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.01.05-06.00.15:451][714]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.01.05-06.00.15:465][714]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.01.05-06.00.15:465][714]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.01.05-06.00.15:465][714]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.01.05-06.00.15:465][714]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.01.05-06.00.15:465][714]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.01.05-06.00.15:465][714]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.01.05-06.00.15:465][714]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.01.05-06.00.15:466][714]LogDirectoryWatcher: A directory notification for 'D:/AlefRGamer/Documents/Unreal Projects/MyProject/Content/' was aborted.
+[2017.01.05-06.00.15:467][714]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.01.05-06.00.15:470][714]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.01.05-06.00.15:644][714]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.01.05-06.00.15:644][714]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.01.05-06.00.15:651][714]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.01.05-06.00.15:664][714]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.01.05-06.00.15:673][714]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.01.05-06.00.15:686][714]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.01.05-06.00.15:686][714]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.01.05-06.00.15:712][714]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.01.05-06.00.15:789][714]LogDerivedDataCache: Shutdown
+[2017.01.05-06.00.15:789][714]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.01.05-06.00.15:815][714]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.01.05-06.00.15:828][714]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.01.05-06.00.15:846][714]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.01.05-06.00.15:858][714]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.01.05-06.00.15:858][714]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.01.05-06.00.15:867][714]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.01.05-06.00.15:867][714]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.01.05-06.00.15:879][714]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.01.05-06.00.15:879][714]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.01.05-06.00.15:879][714]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.01.05-06.00.15:879][714]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.01.05-06.00.15:884][714]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.01.05-06.00.15:892][714]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.01.05-06.00.15:892][714]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.01.05-06.00.15:892][714]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.01.05-06.00.15:896][714]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.01.05-06.00.15:902][714]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.01.05-06.00.15:912][714]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.01.05-06.00.15:912][714]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.01.05-06.00.15:912][714]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.01.05-06.00.15:912][714]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.01.05-06.00.15:912][714]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.01.05-06.00.15:912][714]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.01.05-06.00.15:912][714]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.01.05-06.00.15:912][714]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.01.05-06.00.15:912][714]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.01.05-06.00.15:912][714]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.01.05-06.00.15:912][714]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.01.05-06.00.15:912][714]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.01.05-06.00.15:912][714]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.01.05-06.00.15:912][714]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.01.05-06.00.15:923][714]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.01.05-06.00.15:931][714]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.01.05-06.00.15:939][714]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.01.05-06.00.15:940][714]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.01.05-06.00.15:940][714]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.01.05-06.00.15:940][714]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.01.05-06.00.15:940][714]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.01.05-06.00.15:940][714]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.01.05-06.00.15:940][714]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.01.05-06.00.15:940][714]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.01.05-06.00.15:940][714]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.01.05-06.00.15:946][714]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.01.05-06.00.15:946][714]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.01.05-06.00.15:946][714]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.01.05-06.00.15:946][714]LogOnline:Display: Unloading online subsystem: NULL
+[2017.01.05-06.00.15:962][714]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.01.05-06.00.15:971][714]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.01.05-06.00.15:971][714]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.01.05-06.00.16:009][714]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.01.05-06.00.16:009][714]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.01.05-06.00.16:009][714]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.01.05-06.00.16:009][714]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.01.05-06.00.16:034][714]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.01.05-06.00.16:047][714]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.01.05-06.00.16:047][714]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.01.05-06.00.16:059][714]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.01.05-06.00.16:071][714]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.01.05-06.00.16:071][714]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.01.05-06.00.16:071][714]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.01.05-06.00.16:078][714]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.01.05-06.00.16:083][714]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.01.05-06.00.16:083][714]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.01.05-06.00.16:097][714]LogExit: Exiting.
+[2017.01.05-06.00.16:120][714]Log file closed, 01/05/17 03:00:16
